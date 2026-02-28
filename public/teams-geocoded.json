@@ -1,0 +1,5168 @@
+[
+  {
+    "team": "AIK",
+    "homesite": "https://www.aikhockey.se/",
+    "town": "Solna",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.366667,
+    "lng": 18.016667
+  },
+  {
+    "team": "Brynäs IF",
+    "homesite": "http://www.brynas.se",
+    "town": "Gävle",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6750132,
+    "lng": 17.1467019
+  },
+  {
+    "team": "Djurgårdens IF",
+    "homesite": "https://www.difhockey.se/",
+    "town": "Stockholm",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "team": "Färjestad BK",
+    "homesite": "http://www.farjestadbk.se/",
+    "town": "Karlstad",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3809146,
+    "lng": 13.5027631
+  },
+  {
+    "team": "HV71",
+    "homesite": "http://www.hv71.se",
+    "town": "Jönköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7825634,
+    "lng": 14.165719
+  },
+  {
+    "team": "Linköping HC",
+    "homesite": "https://www.lhc.eu/",
+    "town": "Linköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.4098135,
+    "lng": 15.6245252
+  },
+  {
+    "team": "Luleå HF",
+    "homesite": "http://www.luleahockey.se",
+    "town": "Luleå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.5831187,
+    "lng": 22.1459535
+  },
+  {
+    "team": "Malmö Redhawks",
+    "homesite": "http://www.malmoredhawks.com/",
+    "town": "Malmö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  {
+    "team": "MoDo Hockey",
+    "homesite": "https://www.modohockey.se/",
+    "town": "Örnsköldsvik",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.2888613,
+    "lng": 18.7160209
+  },
+  {
+    "team": "Södertälje SK",
+    "homesite": "https://www.sodertaljesk.se/",
+    "town": "Södertälje",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.1964289,
+    "lng": 17.6271663
+  },
+  {
+    "team": "Timrå IK",
+    "homesite": "http://www.timraik.se/",
+    "town": "Timrå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.4922058,
+    "lng": 17.2995411
+  },
+  {
+    "team": "Frölunda HC",
+    "homesite": "https://www.frolundahockey.com/",
+    "town": "Göteborg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "team": "Almtuna IS",
+    "homesite": "https://www.almtuna.com/",
+    "town": "Uppsala",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.8586126,
+    "lng": 17.6387436
+  },
+  {
+    "team": "IFK Arboga",
+    "homesite": "https://www.arbogahockey.se/start/?ID=214485",
+    "town": "Arboga",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.394187,
+    "lng": 15.8396643
+  },
+  {
+    "team": "IF Björklöven",
+    "homesite": "https://www.bjorkloven.com/",
+    "town": "Umeå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.8256568,
+    "lng": 20.2630745
+  },
+  {
+    "team": "Bodens IK",
+    "homesite": "",
+    "town": "Boden",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.8275004,
+    "lng": 21.6964105
+  },
+  {
+    "team": "Huddinge IK",
+    "homesite": "https://www.hockeyettan.se/huddinge-hockey/",
+    "town": "Huddinge",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.216667,
+    "lng": 18.0
+  },
+  {
+    "team": "Kiruna IF",
+    "homesite": "https://www.kirunaif.se/",
+    "town": "Kiruna",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 68.166667,
+    "lng": 19.5
+  },
+  {
+    "team": "Nyköpings HK",
+    "homesite": "http://www.svenskalag.se/nykopingshockey",
+    "town": "Nyköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.7545409,
+    "lng": 17.0120656
+  },
+  {
+    "team": "Piteå HC",
+    "homesite": "https://www.hockeyettan.se/pitea-hockey",
+    "town": "Piteå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.3134652,
+    "lng": 21.4900252
+  },
+  {
+    "team": "Skellefteå AIK",
+    "homesite": "http://www.skellefteaaik.se/",
+    "town": "Skellefteå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.7520185,
+    "lng": 20.959339
+  },
+  {
+    "team": "IF Sundsvall Hockey",
+    "homesite": "https://www.hockeyettan.se/sundsvall-hockey/",
+    "town": "Sundsvall",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.3907552,
+    "lng": 17.3071024
+  },
+  {
+    "team": "Tierps HK",
+    "homesite": "https://www.laget.se/TierpHockey",
+    "town": "Tierp",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.333333,
+    "lng": 17.616667
+  },
+  {
+    "team": "BIK Karlskoga",
+    "homesite": "https://www.bikkarlskoga.se/",
+    "town": "Karlskoga",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3291667,
+    "lng": 14.5176911
+  },
+  {
+    "team": "Gislaveds SK",
+    "homesite": "https://www.gsk-hockey.se/",
+    "town": "Gislaved",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.25,
+    "lng": 13.45
+  },
+  {
+    "team": "Leksands IF",
+    "homesite": "http://www.leksandsif.se",
+    "town": "Leksand",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.7329032,
+    "lng": 14.9968205
+  },
+  {
+    "team": "Mora IK",
+    "homesite": "https://www.moraik.se/",
+    "town": "Mora",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.0086787,
+    "lng": 14.5442519
+  },
+  {
+    "team": "Mörrums GoIS",
+    "homesite": "https://www.hockeyettan.se/morrum-hockey/",
+    "town": "Mörrum",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.1928572,
+    "lng": 14.7532545
+  },
+  {
+    "team": "IK Oskarshamn",
+    "homesite": "http://www.ikoskarshamn.se/",
+    "town": "Oskarshamn",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.2632811,
+    "lng": 16.4443478
+  },
+  {
+    "team": "Rögle BK",
+    "homesite": "https://www.roglebk.se/",
+    "town": "Ängelholm",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.2429224,
+    "lng": 12.8619375
+  },
+  {
+    "team": "Tingsryds AIF",
+    "homesite": "https://www.taif.nu/",
+    "town": "Tingsryd",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.533333,
+    "lng": 14.966667
+  },
+  {
+    "team": "Tranås AIF",
+    "homesite": "https://www.hockeyettan.se/tranas-aif/",
+    "town": "Tranås",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.05,
+    "lng": 14.833333
+  },
+  {
+    "team": "IF Troja-Ljungby",
+    "homesite": "https://www.troja-ljungby.com/",
+    "town": "Ljungby",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.85,
+    "lng": 13.933333
+  },
+  {
+    "team": "Örebro HK",
+    "homesite": "http://www.orebrohockey.se/",
+    "town": "Örebro",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2747287,
+    "lng": 15.2151181
+  },
+  {
+    "team": "Kils AIK U18",
+    "homesite": "https://www.kaikhockey.se/start/?ID=198401",
+    "town": "Kil",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.5691957,
+    "lng": 13.1825483
+  },
+  {
+    "team": "Asplöven HC",
+    "homesite": "http://www.asploven.com/",
+    "town": "Haparanda",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.835667,
+    "lng": 24.1357213
+  },
+  {
+    "team": "Clemensnäs HC",
+    "homesite": "https://www.laget.se/ClemensnasHC/",
+    "town": "Ursviken",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.7081242,
+    "lng": 21.1766869
+  },
+  {
+    "team": "Kalix HF",
+    "homesite": "http://www.kalixhockey.dot.nu/",
+    "town": "Kalix",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 66.0,
+    "lng": 23.0
+  },
+  {
+    "team": "SK Lejon",
+    "homesite": "https://www.laget.se/SKLejon/Troop",
+    "town": "Skellefteå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.7520185,
+    "lng": 20.959339
+  },
+  {
+    "team": "Tegs SK",
+    "homesite": "https://tegsskhockey.se/",
+    "town": "Umeå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.8256568,
+    "lng": 20.2630745
+  },
+  {
+    "team": "Vännäs HC",
+    "homesite": "https://www.hockeyettan.se/vannas-hc/",
+    "town": "Vännäs",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.95,
+    "lng": 19.666667
+  },
+  {
+    "team": "Överkalix IF",
+    "homesite": "https://www.laget.se/OverkalixIF_Alag",
+    "town": "Överkalix",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 66.416667,
+    "lng": 22.5
+  },
+  {
+    "team": "AIK Härnösand",
+    "homesite": "https://www.svenskalag.se/aikharnosand-alaget",
+    "town": "Härnösand",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.6323084,
+    "lng": 17.9379914
+  },
+  {
+    "team": "Brunflo IK",
+    "homesite": "https://www.laget.se/BrunfloIK",
+    "town": "Brunflo",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.0813104,
+    "lng": 14.8265904
+  },
+  {
+    "team": "KB65 HK",
+    "homesite": "https://www.svenskalag.se/kb65-hockey-div2",
+    "town": "Bjästa",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.2038751,
+    "lng": 18.5002737
+  },
+  {
+    "team": "Kovlands IshF",
+    "homesite": "https://www.svenskalag.se/KIF-Alaget",
+    "town": "Kovland",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.4695206,
+    "lng": 17.155385
+  },
+  {
+    "team": "Kramfors-Alliansen",
+    "homesite": "https://www.laget.se/KramforsAlliansen-Ishockey",
+    "town": "Kramfors",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.916667,
+    "lng": 17.666667
+  },
+  {
+    "team": "LN91",
+    "homesite": "https://www.ln91.se/",
+    "town": "Nordmaling",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.666667,
+    "lng": 19.416667
+  },
+  {
+    "team": "Sollefteå HK",
+    "homesite": "https://www.svenskalag.se/hockeytvaan",
+    "town": "Sollefteå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.383333,
+    "lng": 16.916667
+  },
+  {
+    "team": "Svedjeholmens IF",
+    "homesite": "http://www.laget.se/SVEDJEHOLMEN/",
+    "town": "Domsjö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.2558129,
+    "lng": 18.7147557
+  },
+  {
+    "team": "Örnsköldsviks SK",
+    "homesite": "http://www.oskhockeyklubb.se/",
+    "town": "Örnsköldsvik",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.2888613,
+    "lng": 18.7160209
+  },
+  {
+    "team": "Wings HC",
+    "homesite": "https://www.hockeyettan.se/wings/",
+    "town": "Märsta",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.6252383,
+    "lng": 17.8515672
+  },
+  {
+    "team": "Gimo IF",
+    "homesite": "https://www.svenskalag.se/gimoifhc",
+    "town": "Gimo",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.167736,
+    "lng": 18.1886179
+  },
+  {
+    "team": "Haninge HF",
+    "homesite": "",
+    "town": "Haninge",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.049722,
+    "lng": 18.266667
+  },
+  {
+    "team": "Järfälla HC",
+    "homesite": "http://www.jarfallahockey.com/",
+    "town": "Järfälla",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.4204736,
+    "lng": 17.8285472
+  },
+  {
+    "team": "Trångsunds IF",
+    "homesite": "https://www.laget.se/TrangsundsIFa",
+    "town": "Trångsund",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2334123,
+    "lng": 18.140481
+  },
+  {
+    "team": "Väsby IK",
+    "homesite": "https://www.hockeyettan.se/vasby-ik/",
+    "town": "Upplands Väsby",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.516667,
+    "lng": 17.916667
+  },
+  {
+    "team": "Vallentuna Hockey",
+    "homesite": "https://www.hockeyettan.se/vallentuna-hockey/",
+    "town": "Vallentuna",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.583333,
+    "lng": 18.216667
+  },
+  {
+    "team": "IK Waxholm",
+    "homesite": "http://www.svenskalag.se/ikwaxholm",
+    "town": "Vaxholm",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.40406,
+    "lng": 18.331331
+  },
+  {
+    "team": "Botkyrka HC",
+    "homesite": "http://www1.idrottonline.se/BotkyrkaHC-Ishockey/Lagen/A-Laget/",
+    "town": "Botkyrka",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2034494,
+    "lng": 17.8545982
+  },
+  {
+    "team": "Gnesta IK",
+    "homesite": "http://www.laget.se/GIKA/",
+    "town": "Gnesta",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.05,
+    "lng": 17.033333
+  },
+  {
+    "team": "Linden Hockey",
+    "homesite": "https://lindenhockey.nu/",
+    "town": "Eskilstuna",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3717379,
+    "lng": 16.5051474
+  },
+  {
+    "team": "MB Hockey",
+    "homesite": "https://www.mbhockey.se/",
+    "town": "Mälarhöjden",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3009642,
+    "lng": 17.9557798
+  },
+  {
+    "team": "IFK Salem",
+    "homesite": "http://www.laget.se/IFKSALEMALAG/",
+    "town": "Rönninge",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.1935249,
+    "lng": 17.7503302
+  },
+  {
+    "team": "Skå IK",
+    "homesite": "http://www.skaik.se/skaik-ishockey",
+    "town": "Ekerö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2904595,
+    "lng": 17.813072
+  },
+  {
+    "team": "IK Tälje",
+    "homesite": "",
+    "town": "Södertälje",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.1964289,
+    "lng": 17.6271663
+  },
+  {
+    "team": "Avesta BK",
+    "homesite": "http://www.avestabk.se/",
+    "town": "Avesta",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.216667,
+    "lng": 16.333333
+  },
+  {
+    "team": "Borlänge HF",
+    "homesite": "https://www.borlange-hockey.se/",
+    "town": "Borlänge",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.4856426,
+    "lng": 15.4234561
+  },
+  {
+    "team": "Hedemora SK",
+    "homesite": "http://www.laget.se/hskalaget",
+    "town": "Hedemora",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.2777918,
+    "lng": 15.9885408
+  },
+  {
+    "team": "Hille/Åbyggeby IK",
+    "homesite": "http://www.laget.se/HAIKALAG",
+    "town": "Gävle",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6750132,
+    "lng": 17.1467019
+  },
+  {
+    "team": "Hudiksvalls HC",
+    "homesite": "https://www.hockeyettan.se/hudikhockey/",
+    "town": "Hudiksvall",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.7281607,
+    "lng": 17.105575
+  },
+  {
+    "team": "Skutskärs SK",
+    "homesite": "http://www.laget.se/SKUTSKARSSKA/start.html",
+    "town": "Skutskär",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6352228,
+    "lng": 17.4092868
+  },
+  {
+    "team": "Surahammars IF",
+    "homesite": "https://surahammarsif.se/",
+    "town": "Surahammar",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.75,
+    "lng": 16.15
+  },
+  {
+    "team": "Västerås IK",
+    "homesite": "https://www.vik.se/",
+    "town": "Västerås",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.6110992,
+    "lng": 16.5463679
+  },
+  {
+    "team": "Västerås HC",
+    "homesite": "http://www.vhc.nu/",
+    "town": "Västerås",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.6110992,
+    "lng": 16.5463679
+  },
+  {
+    "team": "Arvika HC",
+    "homesite": "https://www.arvikahockey.nu/",
+    "town": "Arvika",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.766667,
+    "lng": 12.65
+  },
+  {
+    "team": "Grums IK",
+    "homesite": "https://www.svenskalag.se/grumsik",
+    "town": "Grums",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.45,
+    "lng": 13.083333
+  },
+  {
+    "team": "IFK Hallsberg",
+    "homesite": "https://www.laget.se/HALLSBERGSHOCKEY",
+    "town": "Hallsberg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.05,
+    "lng": 15.25
+  },
+  {
+    "team": "Hammarö HC",
+    "homesite": "https://www.hammarohockey.com/",
+    "town": "Hammarö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.316667,
+    "lng": 13.55
+  },
+  {
+    "team": "Kristinehamns HT",
+    "homesite": "http://www.laget.se/kristinehamn",
+    "town": "Kristinehamn",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3113619,
+    "lng": 14.11176
+  },
+  {
+    "team": "Kumla HC",
+    "homesite": "https://www.kumlahockey.se/",
+    "town": "Kumla",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.1179551,
+    "lng": 15.1206208
+  },
+  {
+    "team": "Nor IK",
+    "homesite": "https://www.laget.se/NorIKHockey",
+    "town": "Vålberg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3953811,
+    "lng": 13.1934701
+  },
+  {
+    "team": "Skåre BK",
+    "homesite": "http://www3.idrottonline.se/SkareBK-Ishockey/",
+    "town": "Karlstad",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3809146,
+    "lng": 13.5027631
+  },
+  {
+    "team": "Sunne IK",
+    "homesite": "http://www.sunneik.se/",
+    "town": "Sunne",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.85,
+    "lng": 13.15
+  },
+  {
+    "team": "Åmåls SK",
+    "homesite": "http://www.amalsk.se/amalskA-lag",
+    "town": "Åmål",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.983838,
+    "lng": 12.6126708
+  },
+  {
+    "team": "Borås HC",
+    "homesite": "https://www.borashockey.se/a-laget/",
+    "town": "Borås",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7210839,
+    "lng": 12.9407407
+  },
+  {
+    "team": "Bäcken HC",
+    "homesite": "https://www.backenhc.com/",
+    "town": "Göteborg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "team": "HC Vita Hästen",
+    "homesite": "https://www.vitahasten.se/",
+    "town": "Norrköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.5909124,
+    "lng": 16.1903511
+  },
+  {
+    "team": "Mariestad BoIS",
+    "homesite": "https://www.hockeyettan.se/mariestad-bois/",
+    "town": "Mariestad",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.7093225,
+    "lng": 13.8228754
+  },
+  {
+    "team": "Mjölby HC",
+    "homesite": "https://www.mjolbyhockey.com/",
+    "town": "Mjölby",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.316667,
+    "lng": 15.133333
+  },
+  {
+    "team": "IF Mölndal Hockey",
+    "homesite": "https://www.laget.se/mhsalag",
+    "town": "Mölndal",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.6564918,
+    "lng": 12.0153085
+  },
+  {
+    "team": "Nittorps IK",
+    "homesite": "https://www.svenskalag.se/nittorpsikalaget",
+    "town": "Nittorp",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.5479754,
+    "lng": 13.4890342
+  },
+  {
+    "team": "Partille HK",
+    "homesite": "http://www.laget.se/PHKALAG/",
+    "town": "Sävedalen",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.726812,
+    "lng": 12.0694135
+  },
+  {
+    "team": "Skövde IK",
+    "homesite": "https://www.hockeyettan.se/skovde.ik/",
+    "town": "Skövde",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.3896329,
+    "lng": 13.8456344
+  },
+  {
+    "team": "Vänersborgs HC",
+    "homesite": "https://www.svenskalag.se/vanersborgshc",
+    "town": "Vänersborg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.3811988,
+    "lng": 12.3226877
+  },
+  {
+    "team": "HC Dalen",
+    "homesite": "https://www.hockeyettan.se/hc-dalen/",
+    "town": "Norrahammar",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7025277,
+    "lng": 14.1189881
+  },
+  {
+    "team": "HK Kings",
+    "homesite": "",
+    "town": "Kungsbacka",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.466667,
+    "lng": 12.166667
+  },
+  {
+    "team": "Jonstorps IF",
+    "homesite": "https://www.laget.se/JIFAlaget",
+    "town": "Jonstorp",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.2283011,
+    "lng": 12.6748623
+  },
+  {
+    "team": "Kristianstads IK",
+    "homesite": "https://www.kristianstadik.se/",
+    "town": "Kristianstad",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.0293778,
+    "lng": 14.1566859
+  },
+  {
+    "team": "Limhamn HK",
+    "homesite": "https://www.laget.se/LimhamnHockey",
+    "town": "Malmö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  {
+    "team": "Nybro Vikings IF",
+    "homesite": "https://nybrovikings.com/",
+    "town": "Nybro",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.7444911,
+    "lng": 15.9075145
+  },
+  {
+    "team": "Olofströms IK",
+    "homesite": "http://www.oik.se/",
+    "town": "Olofström",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.3014882,
+    "lng": 14.5161735
+  },
+  {
+    "team": "IK Pantern",
+    "homesite": "https://www.pantern.se/",
+    "town": "Malmö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  {
+    "team": "Tyringe SoSS",
+    "homesite": "https://www.tsos.com/",
+    "town": "Tyringe",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.1602044,
+    "lng": 13.6042633
+  },
+  {
+    "team": "Växjö Lakers HC",
+    "homesite": "http://www.vaxjolakers.se",
+    "town": "Växjö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.8787183,
+    "lng": 14.8094385
+  },
+  {
+    "team": "Alfta GIF",
+    "homesite": "https://www.alftahockey.com/",
+    "town": "Alfta",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.3443897,
+    "lng": 16.0582419
+  },
+  {
+    "team": "IFK Bjurfors",
+    "homesite": "http://www.ifkbjurfors.se/",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Bjurfors",
+    "lat": 64.3991433,
+    "lng": 20.4111311
+  },
+  {
+    "team": "Björbo IF",
+    "homesite": "http://www.laget.se/bjorboif",
+    "town": "Björbo",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.456683,
+    "lng": 14.7272515
+  },
+  {
+    "team": "Bolidens FFI",
+    "homesite": "https://www.laget.se/bolidensffi/",
+    "town": "Boliden",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.8671772,
+    "lng": 20.3835784
+  },
+  {
+    "team": "Bollnäs IS",
+    "homesite": "https://www.bollnashockey.se/bollnasis-a-lag",
+    "town": "Bollnäs",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.35,
+    "lng": 16.433333
+  },
+  {
+    "team": "Bureå IF",
+    "homesite": "http://www4.idrottonline.se/BureaIF-Ishockey/",
+    "town": "Bureå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.6179842,
+    "lng": 21.200493
+  },
+  {
+    "team": "Burträsk HC",
+    "homesite": "https://burtraskhc.sportadmin.se/",
+    "town": "Burträsk",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.5190044,
+    "lng": 20.6557865
+  },
+  {
+    "team": "Charlottenbergs HC",
+    "homesite": "http://www.svenskalag.se/chc",
+    "town": "Charlottenberg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.8839607,
+    "lng": 12.3049207
+  },
+  {
+    "team": "Eagles Hockey",
+    "homesite": "http://eagles.just.nu/",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Falun",
+    "lat": 60.6070068,
+    "lng": 15.6323059
+  },
+  {
+    "team": "Falu HC",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Falun",
+    "lat": 60.6070068,
+    "lng": 15.6323059
+  },
+  {
+    "team": "Falu IF",
+    "homesite": "https://www.laget.se/FaluIF/",
+    "town": "Falun",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6070068,
+    "lng": 15.6323059
+  },
+  {
+    "team": "Flemingsbergs IK",
+    "homesite": "https://www.flemingsbergsik.se/",
+    "town": "Flemingsberg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2223899,
+    "lng": 17.9398948
+  },
+  {
+    "team": "Gävle GIK",
+    "homesite": "http://www.ggikhockey.se/",
+    "town": "Gävle",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6750132,
+    "lng": 17.1467019
+  },
+  {
+    "team": "Hofors HC",
+    "homesite": "https://www.hoforshockey.com/",
+    "town": "Hofors",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.5,
+    "lng": 16.333333
+  },
+  {
+    "team": "IK Huge",
+    "homesite": "http://www.ikhuge.se/ikhuge-ishockey",
+    "town": "Gävle",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6750132,
+    "lng": 17.1467019
+  },
+  {
+    "team": "Häradsbygdens SS",
+    "homesite": "https://www.svenskalag.se/hsshockey",
+    "town": "Leksand",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.7329032,
+    "lng": 14.9968205
+  },
+  {
+    "team": "Höga Kusten HF",
+    "homesite": "http://www.hkh.nu/",
+    "town": "Nordingrå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.8459043,
+    "lng": 18.6226519
+  },
+  {
+    "team": "Kågedalens AIF",
+    "homesite": "https://idrottonline.se/KagedalensAIF-Ishockey/",
+    "town": "Kåge",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.8351736,
+    "lng": 20.9848115
+  },
+  {
+    "team": "Ludvika HF",
+    "homesite": "https://www.laget.se/LudvikaHFHerr",
+    "town": "Ludvika",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.2,
+    "lng": 14.833333
+  },
+  {
+    "team": "Lugnviks IF",
+    "homesite": "http://www3.idrottonline.se/LugnviksIF/",
+    "town": "Lugnvik",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.9295771,
+    "lng": 17.9142347
+  },
+  {
+    "team": "Malungs IF",
+    "homesite": "https://www.svenskalag.se/mifhockey-herr",
+    "town": "Malung",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6864461,
+    "lng": 13.7145867
+  },
+  {
+    "team": "Malå IF",
+    "homesite": "http://idrottonline.se/MalaIF-Ishockey/",
+    "town": "Malå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.2023976,
+    "lng": 18.7510343
+  },
+  {
+    "team": "IF Noretpojkarna",
+    "homesite": "http://hem.passagen.se/rams/",
+    "town": "Mora",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.0086787,
+    "lng": 14.5442519
+  },
+  {
+    "team": "Oppala IK",
+    "homesite": "http://idrottonline.se/OppalaIK-Ishockey/",
+    "town": "Gävle",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6750132,
+    "lng": 17.1467019
+  },
+  {
+    "team": "Orsa IK",
+    "homesite": "https://www.svenskalag.se/orsaik-alag",
+    "town": "Orsa",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.3,
+    "lng": 14.75
+  },
+  {
+    "team": "Pro Mask HC",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Sandvikens IK",
+    "homesite": "https://www.laget.se/SIKHockey/",
+    "town": "Sandviken",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6218652,
+    "lng": 16.7759991
+  },
+  {
+    "team": "Segeltorps IF",
+    "homesite": "https://www.segeltorphockey.se/",
+    "town": "Segeltorp",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2768311,
+    "lng": 17.9425769
+  },
+  {
+    "team": "SHK HC",
+    "homesite": "http://www.svenskalag.se/start.asp?teamid=795",
+    "town": "Skärplinge",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.4741563,
+    "lng": 17.7627763
+  },
+  {
+    "team": "Smedjebacken HC",
+    "homesite": "https://www.laget.se/shc_alag",
+    "town": "Smedjebacken",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.1430763,
+    "lng": 15.4143028
+  },
+  {
+    "team": "Strömsbro IF",
+    "homesite": "https://www.hockeyettan.se/stromsbro/",
+    "town": "Gävle",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6750132,
+    "lng": 17.1467019
+  },
+  {
+    "team": "Söderhamn/Ljusne HC",
+    "homesite": "https://www.slhc.se",
+    "town": "Ljusne",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.2136308,
+    "lng": 17.1281545
+  },
+  {
+    "team": "Team Uppsala",
+    "homesite": "http://www.laget.se/teamuppsalahockey/1317-start.html",
+    "town": "Uppsala",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.8586126,
+    "lng": 17.6387436
+  },
+  {
+    "team": "Tibro IK",
+    "homesite": "https://www.laget.se/TibroIK",
+    "town": "Tibro",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.416667,
+    "lng": 14.2
+  },
+  {
+    "team": "Trollhättans HC",
+    "homesite": "https://www.trollhattanshc.se/",
+    "town": "Trollhättan",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.2827931,
+    "lng": 12.2908612
+  },
+  {
+    "team": "Vindelns HF",
+    "homesite": "",
+    "town": "Vindeln",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.2066818,
+    "lng": 19.7172083
+  },
+  {
+    "team": "Byske HC",
+    "homesite": "",
+    "town": "Byske",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.9545082,
+    "lng": 21.2057517
+  },
+  {
+    "team": "Gällsta IK",
+    "homesite": "https://www.gallstaik.se/",
+    "town": "Gällsta",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.0396194,
+    "lng": 17.3180339
+  },
+  {
+    "team": "Hedesunda IF",
+    "homesite": "http://www5.idrottonline.se/HedesundaIF-Ishockey/",
+    "town": "Hedesunda",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.3940251,
+    "lng": 17.006446
+  },
+  {
+    "team": "Hemsta IF",
+    "homesite": "http://svenskalag.se/hemstaif",
+    "town": "Gävle",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6750132,
+    "lng": 17.1467019
+  },
+  {
+    "team": "Järvsö IK",
+    "homesite": "https://www.laget.se/JIK",
+    "town": "Järvsö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.7158943,
+    "lng": 16.1693209
+  },
+  {
+    "team": "Lindefallets SK",
+    "homesite": "https://www.laget.se/LindefalletsSK",
+    "town": "Enånger",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.5474691,
+    "lng": 17.0022468
+  },
+  {
+    "team": "Lövånger/U AIK",
+    "homesite": "http://www.lagsidan.se/luaik",
+    "town": "Lövånger",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.3687534,
+    "lng": 21.3135172
+  },
+  {
+    "team": "Medle SK",
+    "homesite": "http://www.laget.se/MEDLEHOCKEY/start.html",
+    "town": "Skellefteå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.7520185,
+    "lng": 20.959339
+  },
+  {
+    "team": "Motor IK",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Norrsundets IF",
+    "homesite": "http://www.laget.se/Norrsundetsifhockey",
+    "town": "Norrsundet",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.929974,
+    "lng": 17.1406678
+  },
+  {
+    "team": "Norsjö HC",
+    "homesite": "https://www.norsjˆhc.se/start/?ID=173894",
+    "town": "Norsjö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.9156556,
+    "lng": 19.5007583
+  },
+  {
+    "team": "Ockelbo IF",
+    "homesite": "http://www4.idrottonline.se/default.aspx?id=34979",
+    "town": "Ockelbo",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.883333,
+    "lng": 16.583333
+  },
+  {
+    "team": "Storumans IK",
+    "homesite": "https://storumansik.nu/ishockey/",
+    "town": "Storuman",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.4,
+    "lng": 16.416667
+  },
+  {
+    "team": "Vännäs HC 2",
+    "homesite": "https://www.laget.se/VannasHC",
+    "town": "Vännäs",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.95,
+    "lng": 19.666667
+  },
+  {
+    "team": "Ullfors HK",
+    "homesite": "https://www.laget.se/UllforsHockey",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Tierp",
+    "lat": 60.333333,
+    "lng": 17.616667
+  },
+  {
+    "team": "Viksjöfors IF",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Ljusdal",
+    "lat": 61.866667,
+    "lng": 15.7
+  },
+  {
+    "team": "Vilhelmina IK",
+    "homesite": "http://www.lagsidan.se/vilhelminahockey/alag",
+    "town": "Vilhelmina",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.833333,
+    "lng": 16.0
+  },
+  {
+    "team": "Åsele IK",
+    "homesite": "https://aseleik.sportadmin.se/start/?ID=200535",
+    "town": "Åsele",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.166667,
+    "lng": 17.333333
+  },
+  {
+    "team": "Älvkarleby IK",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Älvkarleby",
+    "lat": 60.583333,
+    "lng": 17.416667
+  },
+  {
+    "team": "Lycksele SK",
+    "homesite": "http://www.lyckselesportklubb.se/",
+    "town": "Lycksele",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.6,
+    "lng": 18.166667
+  },
+  {
+    "team": "AIK U20",
+    "homesite": "http://www.aikif.se/aikishockey-j20",
+    "town": "Solna",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.366667,
+    "lng": 18.016667
+  },
+  {
+    "team": "IF Björklöven U20",
+    "homesite": "https://www.svenskalag.se/bjorkloven",
+    "town": "Umeå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.8256568,
+    "lng": 20.2630745
+  },
+  {
+    "team": "Brynäs IF U20",
+    "homesite": "http://www.brynas.se/Sport/Junior/Team-J20/",
+    "town": "Gävle",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6750132,
+    "lng": 17.1467019
+  },
+  {
+    "team": "Färjestad BK U20",
+    "homesite": "https://www.laget.se/FBKU20",
+    "town": "Karlstad",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3809146,
+    "lng": 13.5027631
+  },
+  {
+    "team": "Huddinge IK U20",
+    "homesite": "https://www.laget.se/HuddingeHockey",
+    "town": "Huddinge",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.216667,
+    "lng": 18.0
+  },
+  {
+    "team": "HV71 U20",
+    "homesite": "http://www.hv71.se/junior/j20",
+    "town": "Jönköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7825634,
+    "lng": 14.165719
+  },
+  {
+    "team": "Leksands IF U20",
+    "homesite": "https://www.svenskalag.se/lifj20elit",
+    "town": "Leksand",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.7329032,
+    "lng": 14.9968205
+  },
+  {
+    "team": "Luleå HF U20",
+    "homesite": "http://www.luleahockey.se/",
+    "town": "Luleå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.5831187,
+    "lng": 22.1459535
+  },
+  {
+    "team": "Malmö Redhawks U20",
+    "homesite": "https://www.malmoredhawks.com/ovriga-lag/j20",
+    "town": "Malmö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  {
+    "team": "MoDo Hockey U20",
+    "homesite": "https://www.modohockey.se/",
+    "town": "Örnsköldsvik",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.2888613,
+    "lng": 18.7160209
+  },
+  {
+    "team": "Mora IK U20",
+    "homesite": "http://www.svenskalag.se/start.asp?teamID=10410",
+    "town": "Mora",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.0086787,
+    "lng": 14.5442519
+  },
+  {
+    "team": "Rögle BK U20",
+    "homesite": "https://www.svenskalag.se/rbkj20",
+    "town": "Ängelholm",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.2429224,
+    "lng": 12.8619375
+  },
+  {
+    "team": "Södertälje SK U20",
+    "homesite": "https://www.svenskalag.se/sodertaljesk",
+    "town": "Södertälje",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.1964289,
+    "lng": 17.6271663
+  },
+  {
+    "team": "Timrå IK U20",
+    "homesite": "https://www.laget.se/TIKJ20/",
+    "town": "Timrå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.4922058,
+    "lng": 17.2995411
+  },
+  {
+    "team": "Frölunda HC U20",
+    "homesite": "https://www.frolundahockey.com/academy-campus/j20",
+    "town": "Göteborg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "team": "Västerås IK U20",
+    "homesite": "https://www.vik.se/j20",
+    "town": "Västerås",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.6110992,
+    "lng": 16.5463679
+  },
+  {
+    "team": "Linköping HC U20",
+    "homesite": "https://www.lhc.eu/",
+    "town": "Linköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.4098135,
+    "lng": 15.6245252
+  },
+  {
+    "team": "IF Troja-Ljungby U20",
+    "homesite": "http://www.laget.se/iftrojaljungbyj20",
+    "town": "Ljungby",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.85,
+    "lng": 13.933333
+  },
+  {
+    "team": "Nacka HK",
+    "homesite": "https://www.nackahockey.se/start/?ID=59260",
+    "town": "Nacka",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3120997,
+    "lng": 18.2073591
+  },
+  {
+    "team": "Danderyd/Täby HC",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Danderyd",
+    "lat": 59.4043647,
+    "lng": 18.0358505
+  },
+  {
+    "team": "Sörhaga/Alingsås HK",
+    "homesite": "https://www.alingsashockey.se/",
+    "town": "Alingsås",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.9299658,
+    "lng": 12.5329678
+  },
+  {
+    "team": "Boro/Vetlanda HC",
+    "homesite": "https://borovhc.sportadmin.se/start/?ID=460670",
+    "town": "Landsbro",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.3696208,
+    "lng": 14.9013204
+  },
+  {
+    "team": "Hanhals IF",
+    "homesite": "https://www.hanhalsif.se/",
+    "town": "Kungsbacka",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.466667,
+    "lng": 12.166667
+  },
+  {
+    "team": "Helsingborgs HC",
+    "homesite": "https://www.helsingborgshockey.se/",
+    "town": "Helsingborg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.0442098,
+    "lng": 12.703706
+  },
+  {
+    "team": "HC Flyers",
+    "homesite": "https://www.laget.se/HCFlyers/",
+    "town": "Karlskoga",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3291667,
+    "lng": 14.5176911
+  },
+  {
+    "team": "Kållereds SK",
+    "homesite": "http://www.kalleredsk.se/ksk-hockey-herr",
+    "town": "Kållered",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.6103737,
+    "lng": 12.0485103
+  },
+  {
+    "team": "Lindlövens IF",
+    "homesite": "https://www.lindloven.com/",
+    "town": "Lindesberg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.666667,
+    "lng": 15.25
+  },
+  {
+    "team": "Lerums BK",
+    "homesite": "http://www.laget.se/LBKALAG",
+    "town": "Lerum",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.833333,
+    "lng": 12.3
+  },
+  {
+    "team": "Lysekils HK",
+    "homesite": "https://www.svenskalag.se/lysekilshkviking-a-laget",
+    "town": "Lysekil",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.3965726,
+    "lng": 11.4196339
+  },
+  {
+    "team": "Motala AIF",
+    "homesite": "http://www.svenskalag.se/maif-alag",
+    "town": "Motala",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.5420395,
+    "lng": 15.041261
+  },
+  {
+    "team": "Nynäshamns IF",
+    "homesite": "https://www.nhc.nu/start/?ID=61410",
+    "town": "Nynäshamn",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.9056457,
+    "lng": 17.9470987
+  },
+  {
+    "team": "Nässjö HC",
+    "homesite": "https://www.laget.se/nassjohca",
+    "town": "Nässjö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.6530377,
+    "lng": 14.6981554
+  },
+  {
+    "team": "Osby IK",
+    "homesite": "https://www.osbyik.com/start/?ID=151169",
+    "town": "Osby",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.416667,
+    "lng": 14.083333
+  },
+  {
+    "team": "Skarpnäcks AIK",
+    "homesite": "http://www.skarpan.com/",
+    "town": "Stockholm",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "team": "Sollentuna HC",
+    "homesite": "https://sollentunahockey.myclub.se/",
+    "town": "Sollentuna",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.4293164,
+    "lng": 17.9500556
+  },
+  {
+    "team": "Sudrets HC",
+    "homesite": "https://www.laget.se/SudretsHC_Alag",
+    "town": "Hemse",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.2401493,
+    "lng": 18.3800194
+  },
+  {
+    "team": "Rönnängs IK",
+    "homesite": "http://www.laget.se/RONNANGSIK/",
+    "town": "Rönnäng",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.9377614,
+    "lng": 11.5865767
+  },
+  {
+    "team": "Ulricehamns IF",
+    "homesite": "https://www.uif.se/start/?ID=328993",
+    "town": "Ulricehamn",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7913848,
+    "lng": 13.4130426
+  },
+  {
+    "team": "Vimmerby HC",
+    "homesite": "https://www.vimmerbyhockey.se/",
+    "town": "Vimmerby",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.683333,
+    "lng": 15.833333
+  },
+  {
+    "team": "Värnamo GIK",
+    "homesite": "http://www.laget.se/A-VGIK",
+    "town": "Värnamo",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.184902,
+    "lng": 14.0410977
+  },
+  {
+    "team": "Västerviks IK",
+    "homesite": "https://www.hockeyettan.se/vasterviks-ik/",
+    "town": "Västervik",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7594186,
+    "lng": 16.6385035
+  },
+  {
+    "team": "Kista HC",
+    "homesite": "http://www.kistahockey.nu/",
+    "town": "Kista",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.4031236,
+    "lng": 17.9424221
+  },
+  {
+    "team": "Stocksunds IF",
+    "homesite": "http://www.stocksundsif.se/Hockey.htm",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Stocksund",
+    "lat": 59.3845769,
+    "lng": 18.0571915
+  },
+  {
+    "team": "Värmdö HC",
+    "homesite": "https://www.varmdohockey.se/start/?ID=216088",
+    "town": "Värmdö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3,
+    "lng": 18.583333
+  },
+  {
+    "team": "Västerhaninge IF",
+    "homesite": "http://www.laget.se/VIFA/start.html",
+    "town": "Västerhaninge",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.1221593,
+    "lng": 18.1085969
+  },
+  {
+    "team": "Chalmers Blue McRangers",
+    "homesite": "https://www.chalmershockey.se/",
+    "town": "Göteborg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "team": "HC Wettern",
+    "homesite": "http://www.svenskalag.se/HCW-A-lag",
+    "town": "Vadstena",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.4488105,
+    "lng": 14.8915928
+  },
+  {
+    "team": "HA74",
+    "homesite": "https://www.laget.se/HA_74/",
+    "town": "Sävsjö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.333333,
+    "lng": 14.666667
+  },
+  {
+    "team": "Hovås HC",
+    "homesite": "http://www.laget.se/HOVASHOCKEYALAG/start.html",
+    "town": "Hovås",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.6153714,
+    "lng": 11.9333249
+  },
+  {
+    "team": "Karlskrona HK",
+    "homesite": "http://www.khk.se",
+    "town": "Karlskrona",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.1621073,
+    "lng": 15.5866422
+  },
+  {
+    "team": "Lenhovda IF",
+    "homesite": "http://www.laget.se/LIF_HOCKEY_A/start.html",
+    "town": "Lenhovda",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.9977705,
+    "lng": 15.2849478
+  },
+  {
+    "team": "Munkedals BK",
+    "homesite": "http://www.munkedalsbk.se/munkedalsbk-a-lag",
+    "town": "Munkedal",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.55,
+    "lng": 11.666667
+  },
+  {
+    "team": "Skara IK",
+    "homesite": "http://www.laget.se/SKARAIKALAG/start.html",
+    "town": "Skara",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.3846075,
+    "lng": 13.4397675
+  },
+  {
+    "team": "Uddevalla HC",
+    "homesite": "http://www.uddevallahc.se/",
+    "town": "Uddevalla",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.3490555,
+    "lng": 11.9382855
+  },
+  {
+    "team": "Björneborgs HK",
+    "homesite": "",
+    "town": "Kristinehamn",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3113619,
+    "lng": 14.11176
+  },
+  {
+    "team": "Viking HC",
+    "homesite": "http://www.vikinghc.se/",
+    "town": "Hagfors",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.0297519,
+    "lng": 13.6518574
+  },
+  {
+    "team": "Njurunda SK",
+    "homesite": "https://www.laget.se/NjurundaSportklubb",
+    "town": "Njurunda",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.2373632,
+    "lng": 17.4632778
+  },
+  {
+    "team": "Eskilstuna HC",
+    "homesite": "http://www.svenskalag.se/eskilstunahc",
+    "town": "Eskilstuna",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3717379,
+    "lng": 16.5051474
+  },
+  {
+    "team": "Skärgårdens SK",
+    "homesite": "http://www.skargardenssk.se/",
+    "town": "Öckerö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.716667,
+    "lng": 11.633333
+  },
+  {
+    "team": "Stenungsund HF",
+    "homesite": "http://www.laget.se/STINGERSALAG",
+    "town": "Stenungsund",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.083333,
+    "lng": 11.916667
+  },
+  {
+    "team": "Varberg HK",
+    "homesite": "https://www.laget.se/nya-A-lag/",
+    "town": "Varberg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.1057412,
+    "lng": 12.2502949
+  },
+  {
+    "team": "Roma IF",
+    "homesite": "http://www5.idrottonline.se/RomaIF-Ishockey/",
+    "town": "Romakloster",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.5073932,
+    "lng": 18.4506134
+  },
+  {
+    "team": "Sigtuna HC",
+    "homesite": "",
+    "town": "Sigtuna",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.6165201,
+    "lng": 17.7236301
+  },
+  {
+    "team": "Åstorps IK",
+    "homesite": "https://www.astorpik.se/start/?ID=340503",
+    "town": "Åstorp",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.1303701,
+    "lng": 12.9928538
+  },
+  {
+    "team": "Grantorps AIK",
+    "homesite": "",
+    "town": "Huddinge",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.216667,
+    "lng": 18.0
+  },
+  {
+    "team": "IFK Stockholm",
+    "homesite": "http://hockey.johansworld.org/",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Stockholm",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "team": "Hanson Brothers",
+    "homesite": "",
+    "town": "Stockholm",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "team": "Vällinge HC",
+    "homesite": "http://www.lagsidan.se/vallinge",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "IFK Österåker",
+    "homesite": "http://www.osterakerhockey.se/",
+    "town": "Åkersberga",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.4823516,
+    "lng": 18.2943981
+  },
+  {
+    "team": "Norrtälje IK",
+    "homesite": "https://www.svenskalag.se/nikalag",
+    "town": "Norrtälje",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.766667,
+    "lng": 18.7
+  },
+  {
+    "team": "Lidingö Vikings",
+    "homesite": "https://www.svenskalag.se/lvhc-alag",
+    "town": "Lidingö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3669445,
+    "lng": 18.1820897
+  },
+  {
+    "team": "Husum HK",
+    "homesite": "http://www.laget.se/husumhockey/start.html",
+    "town": "Husum",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.3290999,
+    "lng": 19.1640042
+  },
+  {
+    "team": "Sweden",
+    "homesite": "http://www.swehockey.se",
+    "town": "",
+    "continent": "INT",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "AIK U18",
+    "homesite": "http://www.aikif.se/aikishockey-j18",
+    "town": "Solna",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.366667,
+    "lng": 18.016667
+  },
+  {
+    "team": "Brynäs IF U18",
+    "homesite": "https://www.brynas.se/",
+    "town": "Gävle",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6750132,
+    "lng": 17.1467019
+  },
+  {
+    "team": "Djurgårdens IF U18",
+    "homesite": "https://www.difhockey.se/",
+    "town": "Stockholm",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "team": "Färjestad BK U18",
+    "homesite": "https://www.farjestadbk.se/",
+    "town": "Karlstad",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3809146,
+    "lng": 13.5027631
+  },
+  {
+    "team": "Huddinge IK U18",
+    "homesite": "https://www.laget.se/huddingehockey",
+    "town": "Huddinge",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.216667,
+    "lng": 18.0
+  },
+  {
+    "team": "HV71 U18",
+    "homesite": "https://www.hv71.se/",
+    "town": "Jönköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7825634,
+    "lng": 14.165719
+  },
+  {
+    "team": "Leksands IF U18",
+    "homesite": "https://www.svenskalag.se/leksandsif",
+    "town": "Leksand",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.7329032,
+    "lng": 14.9968205
+  },
+  {
+    "team": "Luleå HF U18",
+    "homesite": "https://www.luleahockey.se/",
+    "town": "Luleå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.5831187,
+    "lng": 22.1459535
+  },
+  {
+    "team": "Malmö Redhawks U18",
+    "homesite": "http://ungdom.malmoredhawks.com/start/?ID=147240",
+    "town": "Malmö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  {
+    "team": "MoDo Hockey U18",
+    "homesite": "https://www.modohockey.se/",
+    "town": "Örnsköldsvik",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.2888613,
+    "lng": 18.7160209
+  },
+  {
+    "team": "Mora IK U18",
+    "homesite": "https://www.svenskalag.se/moraik",
+    "town": "Mora",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.0086787,
+    "lng": 14.5442519
+  },
+  {
+    "team": "Rögle BK U18",
+    "homesite": "https://www.svenskalag.se/roglebk",
+    "town": "Ängelholm",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.2429224,
+    "lng": 12.8619375
+  },
+  {
+    "team": "Timrå IK U18",
+    "homesite": "https://www.laget.se/TIKJ18",
+    "town": "Timrå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.4922058,
+    "lng": 17.2995411
+  },
+  {
+    "team": "Frölunda HC U18",
+    "homesite": "https://www.frolundahockey.com/team/087a-90faeu8oA/fhc1_fhc/overview",
+    "town": "Göteborg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "team": "Djurgårdens IF U20",
+    "homesite": "http://www.difhockey.se/junior",
+    "town": "Stockholm",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "team": "Team Gävle",
+    "homesite": "http://www.laget.se/TGALAG/24991-start.html",
+    "town": "Gävle",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6750132,
+    "lng": 17.1467019
+  },
+  {
+    "team": "Östervåla IF",
+    "homesite": "https://www.ostervalaidrottsforening.se/start/?ID=177828",
+    "town": "Östervåla",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.1809325,
+    "lng": 17.1780842
+  },
+  {
+    "team": "Alvesta SK",
+    "homesite": "https://www.askhockey.se/",
+    "town": "Alvesta",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.9166599,
+    "lng": 14.4998825
+  },
+  {
+    "team": "IFK Munkfors",
+    "homesite": "https://www.laget.se/ifkmunkforshockey/",
+    "town": "Munkfors",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.816667,
+    "lng": 13.5
+  },
+  {
+    "team": "Tingsryds AIF U16",
+    "homesite": "http://www.laget.se/TAIF_U16A2Div1/Troop",
+    "town": "Tingsryd",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.533333,
+    "lng": 14.966667
+  },
+  {
+    "team": "Grästorps IK",
+    "homesite": "https://grastorpsik.se/",
+    "town": "Grästorp",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.333333,
+    "lng": 12.666667
+  },
+  {
+    "team": "Sweden II |Cup|",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Södertälje SK U18",
+    "homesite": "https://www.svenskalag.se/sodertaljesk",
+    "town": "Södertälje",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.1964289,
+    "lng": 17.6271663
+  },
+  {
+    "team": "Forshaga IF",
+    "homesite": "https://www.hockeyettan.se/forshaga-if/",
+    "town": "Forshaga",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.533333,
+    "lng": 13.466667
+  },
+  {
+    "team": "Glimma HK",
+    "homesite": "http://www.glimmahockey.se/",
+    "town": "Glimåkra",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.3037116,
+    "lng": 14.1338285
+  },
+  {
+    "team": "Västerås IK U18",
+    "homesite": "https://www.vik.se/j18",
+    "town": "Västerås",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.6110992,
+    "lng": 16.5463679
+  },
+  {
+    "team": "IF Björklöven U18",
+    "homesite": "https://www.svenskalag.se/bjorkloven",
+    "town": "Umeå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.8256568,
+    "lng": 20.2630745
+  },
+  {
+    "team": "Bodens HF U20",
+    "homesite": "https://www.laget.se/BHFJ20Elit",
+    "town": "Boden",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.8275004,
+    "lng": 21.6964105
+  },
+  {
+    "team": "Skellefteå AIK U20",
+    "homesite": "https://www.laget.se/skeaiku20",
+    "town": "Skellefteå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.7520185,
+    "lng": 20.959339
+  },
+  {
+    "team": "Fellingsbro/Frövi IK",
+    "homesite": "https://www.laget.se/FFIK",
+    "town": "Fellingsbro",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.4354256,
+    "lng": 15.5894037
+  },
+  {
+    "team": "Fagersta AIK",
+    "homesite": "https://www.laget.se/FAIKHerr",
+    "town": "Fagersta",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.966667,
+    "lng": 15.833333
+  },
+  {
+    "team": "IK Westmannia-Köping",
+    "homesite": "",
+    "town": "Köping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.5137434,
+    "lng": 15.9970475
+  },
+  {
+    "team": "Follingbo Flyers",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Visby",
+    "lat": 57.6379361,
+    "lng": 18.297982
+  },
+  {
+    "team": "Göteborgs IK",
+    "homesite": "http://idrottonline.se/GoteborgsIK-Ishockey/",
+    "town": "Göteborg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "team": "Sweden U18",
+    "homesite": "http://www.swehockey.se",
+    "town": "",
+    "continent": "INT",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Sweden U20",
+    "homesite": "http://www.swehockey.se",
+    "town": "",
+    "continent": "INT",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Sweden|CC|",
+    "homesite": "http://www.swehockey.se",
+    "town": "",
+    "continent": "INT",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Sweden|WCup|",
+    "homesite": "http://www.swehockey.se",
+    "town": "",
+    "continent": "INT",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Sweden Olympics",
+    "homesite": "http://www.swehockey.se",
+    "town": "",
+    "continent": "INT",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Tyresö HK",
+    "homesite": "http://www.tyresohockey.se/alag/",
+    "town": "Tyresö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.216667,
+    "lng": 18.333333
+  },
+  {
+    "team": "Ekshärads HC",
+    "homesite": "http://www.eksharad.nu/hockey/",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Ekshärad",
+    "lat": 60.1696444,
+    "lng": 13.5058575
+  },
+  {
+    "team": "Kalmar HC",
+    "homesite": "https://www.kalmarhockey.com/",
+    "town": "Kalmar",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.6628826,
+    "lng": 16.3662382
+  },
+  {
+    "team": "Skellefteå AIK U18",
+    "homesite": "https://www.laget.se/SAIKUngdom",
+    "town": "Skellefteå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.7520185,
+    "lng": 20.959339
+  },
+  {
+    "team": "Brooklyn Tigers",
+    "homesite": "http://www.brooklyntigers.nu/",
+    "town": "Luleå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.5831187,
+    "lng": 22.1459535
+  },
+  {
+    "team": "Ljungsbro HF",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Linköping",
+    "lat": 58.4098135,
+    "lng": 15.6245252
+  },
+  {
+    "team": "Åker/Strängnäs HC",
+    "homesite": "http://www.akerstrangnashc.com/akerstrangnashc_alag",
+    "town": "Åkers styckebruk",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2564417,
+    "lng": 17.1080216
+  },
+  {
+    "team": "Älvsby IF",
+    "homesite": "https://www.laget.se/AIFHockey",
+    "town": "Älvsbyn",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.7,
+    "lng": 21.0
+  },
+  {
+    "team": "Köping HC",
+    "homesite": "https://www.kopinghockey.se/start/?ID=30937",
+    "town": "Köping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.5137434,
+    "lng": 15.9970475
+  },
+  {
+    "team": "Sölvesborgs IK",
+    "homesite": "https://www.sik.nu/start/?ID=364041",
+    "town": "Sölvesborg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.0506535,
+    "lng": 14.5871906
+  },
+  {
+    "team": "Linköping HC U18",
+    "homesite": "https://www.lhc.eu/",
+    "town": "Linköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.4098135,
+    "lng": 15.6245252
+  },
+  {
+    "team": "Malmbergets AIF",
+    "homesite": "https://www.laget.se/MalmbergetsAIF-Ishockey/",
+    "town": "Malmberget",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.1446227,
+    "lng": 15.5670987
+  },
+  {
+    "team": "Bräcke IK",
+    "homesite": "http://www.brackehockey.se/",
+    "town": "Bräcke",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.783333,
+    "lng": 15.666667
+  },
+  {
+    "team": "IFK Arvidsjaur |old|",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Arvidsjaur",
+    "lat": 65.666667,
+    "lng": 19.25
+  },
+  {
+    "team": "Ormsta HC",
+    "homesite": "http://www.ormstahc.se/",
+    "town": "Vallentuna",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.583333,
+    "lng": 18.216667
+  },
+  {
+    "team": "StiL Hockey",
+    "homesite": "https://www.svenskalag.se/stilhockey",
+    "town": "Luleå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.5831187,
+    "lng": 22.1459535
+  },
+  {
+    "team": "Kiruna AIF",
+    "homesite": "http://www.kirunaaif1927.se/kirunaaif-hockey-alag",
+    "town": "Kiruna",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 68.166667,
+    "lng": 19.5
+  },
+  {
+    "team": "Enköpings SK",
+    "homesite": "https://www.hockeyettan.se/enkopings-sk-hk/",
+    "town": "Enköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.6356115,
+    "lng": 17.077856
+  },
+  {
+    "team": "Örebro HK U20",
+    "homesite": "http://www.laget.se/OREBROHOCKEYJ20/start.html",
+    "town": "Örebro",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2747287,
+    "lng": 15.2151181
+  },
+  {
+    "team": "Tvåstad Cobras",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Lidköping",
+    "lat": 58.5037196,
+    "lng": 13.1576427
+  },
+  {
+    "team": "Järveds IF",
+    "homesite": "https://www.laget.se/JIFalag",
+    "town": "Järved",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.2730921,
+    "lng": 18.7647544
+  },
+  {
+    "team": "Kungälvs IK",
+    "homesite": "https://kungalvsik.myclub.se/",
+    "town": "Kungälv",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.8707951,
+    "lng": 11.9799616
+  },
+  {
+    "team": "Kungälvs IK U18",
+    "homesite": "https://kungalvsik.myclub.se/j18",
+    "town": "Kungälv",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.8707951,
+    "lng": 11.9799616
+  },
+  {
+    "team": "IFK Strömsund",
+    "homesite": "http://www.ifkstromsund.se/start/?ID=214049",
+    "town": "Strömsund",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.25,
+    "lng": 15.366667
+  },
+  {
+    "team": "Ångermanland",
+    "homesite": "http://www.swehockey.se/angermanland",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Blekinge",
+    "homesite": "http://www.swehockey.se/blekinge",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Småland",
+    "homesite": "http://www.swehockey.se/smaland",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Bohuslän/Dal",
+    "homesite": "http://www.swehockey.se/bohuslan-dals/",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Dalarna",
+    "homesite": "http://www.swehockey.se/dalarna",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Gästrikland",
+    "homesite": "http://www.gastrikehockey.com/",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Göteborg",
+    "homesite": "http://www.swehockey.se/goteborg",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Gotland",
+    "homesite": "http://www.swehockey.se/gotland",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Visby",
+    "lat": 57.6379361,
+    "lng": 18.297982
+  },
+  {
+    "team": "Halland",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Hälsingland",
+    "homesite": "http://www.halsingehockey.se/",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Jämtland/Härjedalen",
+    "homesite": "http://www.swehockey.se/jamtland-harjedalen",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Medelpad",
+    "homesite": "http://www.medelpadhockey.se/",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Norrbotten",
+    "homesite": "http://www.norrbottenhockey.com/",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Örebro Län",
+    "homesite": "http://www.orebroishockey.se/",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Örebro",
+    "lat": 59.2747287,
+    "lng": 15.2151181
+  },
+  {
+    "team": "Östergötland",
+    "homesite": "http://www.ostergot.se/",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Skåne",
+    "homesite": "http://www.swehockey.se/skane",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Södermanland",
+    "homesite": "http://www.swehockey.se/sodermanland",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Stockholm 2",
+    "homesite": "http://www.stockholmhockey.se/",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Stockholm",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "team": "Stockholm",
+    "homesite": "http://www.stockholmhockey.se/",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Stockholm",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "team": "Uppland",
+    "homesite": "http://www.swehockey.se/uppland",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Värmland",
+    "homesite": "http://www.swehockey.se/varmland",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Västerbotten",
+    "homesite": "http://www.swehockey.se/vasterbotten",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Västergötland",
+    "homesite": "http://www.swehockey.se/vastergotland",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Västmanland",
+    "homesite": "http://www.westhockey.se/",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Stocksunds IF J18",
+    "homesite": "http://www.stocksundsif.se/Hockey.htm",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Stocksund",
+    "lat": 59.3845769,
+    "lng": 18.0571915
+  },
+  {
+    "team": "Diö GoIF",
+    "homesite": "https://www.svenskalag.se/diohockey",
+    "town": "Diö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.6393813,
+    "lng": 14.2211316
+  },
+  {
+    "team": "Kungsörs IK",
+    "homesite": "https://www.svenskalag.se/kungsorsik",
+    "town": "Kungsör",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.433333,
+    "lng": 16.1
+  },
+  {
+    "team": "KRIF Hockey",
+    "homesite": "https://www.hockeyettan.se/krifhockey/",
+    "town": "Kallinge",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.2456106,
+    "lng": 15.2872377
+  },
+  {
+    "team": "SK Iron",
+    "homesite": "https://www.laget.se/SKIronAlag",
+    "town": "Björklinge",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.0291369,
+    "lng": 17.551431
+  },
+  {
+    "team": "Lund Giants HC",
+    "homesite": "http://www.lundgiants.se",
+    "town": "Lund",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 55.7029296,
+    "lng": 13.1929449
+  },
+  {
+    "team": "Fellingsbro/Frövi IK J20",
+    "homesite": "",
+    "town": "Fellingsbro",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.4354256,
+    "lng": 15.5894037
+  },
+  {
+    "team": "Wisby Islanders HC",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Visby",
+    "lat": 57.6379361,
+    "lng": 18.297982
+  },
+  {
+    "team": "Bergeforsens SK",
+    "homesite": "",
+    "town": "Timrå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.4922058,
+    "lng": 17.2995411
+  },
+  {
+    "team": "Spånga IS",
+    "homesite": "https://www.spangahockey.se/start/?ID=232341",
+    "town": "Spånga",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3836259,
+    "lng": 17.8981821
+  },
+  {
+    "team": "Vallentuna Hockey U20",
+    "homesite": "https://www.svenskalag.se/vallentunahockey-J20",
+    "town": "Vallentuna",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.583333,
+    "lng": 18.216667
+  },
+  {
+    "team": "IFK Falköping",
+    "homesite": "http://www.blueriders.net/",
+    "town": "Falköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.1695083,
+    "lng": 13.5542412
+  },
+  {
+    "team": "Svegs IK",
+    "homesite": "",
+    "town": "Sveg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.0360709,
+    "lng": 14.3598392
+  },
+  {
+    "team": "Solna SK",
+    "homesite": "http://www.solnahockey.se/",
+    "town": "Solna",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.366667,
+    "lng": 18.016667
+  },
+  {
+    "team": "Botkyrka HC J20",
+    "homesite": "http://www1.idrottonline.se/BotkyrkaHC-Ishockey/Lagen/J20/",
+    "town": "Botkyrka",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2034494,
+    "lng": 17.8545982
+  },
+  {
+    "team": "Ånge IK",
+    "homesite": "https://www.laget.se/ANGEIKALAG/",
+    "town": "Ånge",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.4737401,
+    "lng": 15.6411682
+  },
+  {
+    "team": "Storfors AIK",
+    "homesite": "http://www.svenskalag.se/saik-hockey",
+    "town": "Storfors",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.55,
+    "lng": 14.333333
+  },
+  {
+    "team": "Team Härnösand",
+    "homesite": "http://www.teamet.nu/",
+    "town": "Härnösand",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.6323084,
+    "lng": 17.9379914
+  },
+  {
+    "team": "Piteå HC U20",
+    "homesite": "http://www.laget.se/PHCJ20/start.html",
+    "town": "Piteå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.3134652,
+    "lng": 21.4900252
+  },
+  {
+    "team": "Bålsta HC",
+    "homesite": "https://www.laget.se/BHCALAG/",
+    "town": "Bålsta",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.5682102,
+    "lng": 17.5293647
+  },
+  {
+    "team": "Kvarnsvedens GoIF",
+    "homesite": "https://www.svenskalag.se/kvarnsvedensgoifik-a-laget",
+    "town": "Borlänge",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.4856426,
+    "lng": 15.4234561
+  },
+  {
+    "team": "Skedvi/Säter IF",
+    "homesite": "https://www.laget.se/ssif",
+    "town": "Säter",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.316667,
+    "lng": 15.75
+  },
+  {
+    "team": "Näldens IF",
+    "homesite": "http://idrottonline.se/NaldensIF/",
+    "town": "Nälden",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.3481406,
+    "lng": 14.2541675
+  },
+  {
+    "team": "Säters IF",
+    "homesite": "http://www8.idrottonline.se/SatersIFIshockeyforening-Ishockey/",
+    "town": "Säter",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.316667,
+    "lng": 15.75
+  },
+  {
+    "team": "Tumba/Botkyrka",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Botkyrka",
+    "lat": 59.2034494,
+    "lng": 17.8545982
+  },
+  {
+    "team": "Tullinge TP",
+    "homesite": "http://idrottonline.se/TullingeTriangelPojkarHC-Ishockey/",
+    "town": "Tullinge",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2067468,
+    "lng": 17.9051873
+  },
+  {
+    "team": "Järpens IF",
+    "homesite": "http://www.jarpenhockey.se/",
+    "town": "Järpen",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.342434,
+    "lng": 13.4720398
+  },
+  {
+    "team": "Kils AIK",
+    "homesite": "https://www.kaikhockey.se/",
+    "town": "Kils",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3800799,
+    "lng": 13.4669824
+  },
+  {
+    "team": "Säffle HC",
+    "homesite": "http://www.svenskalag.se/safflehc",
+    "town": "Säffle",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.116667,
+    "lng": 12.85
+  },
+  {
+    "team": "Filipstads IF",
+    "homesite": "http://idrottonline.se/FilipstadsIFsIK-Ishockey/",
+    "town": "Filipstad",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.7,
+    "lng": 14.183333
+  },
+  {
+    "team": "Visby/Roma",
+    "homesite": "https://www.visbyroma.se/",
+    "town": "Visby",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.6379361,
+    "lng": 18.297982
+  },
+  {
+    "team": "Trelleborgs IF",
+    "homesite": "http://www.laget.se/TRELLEBORGVIKINGSSENIOR/start.html",
+    "town": "Trelleborg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 55.37592,
+    "lng": 13.1461522
+  },
+  {
+    "team": "Finspångs AIK",
+    "homesite": "https://www.svenskalag.se/faikhockey",
+    "town": "Finspång",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.8,
+    "lng": 15.833333
+  },
+  {
+    "team": "Skärblacka IF",
+    "homesite": "http://www.svenskalag.se/skarblackaif-hockey",
+    "town": "Skärblacka",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.576409,
+    "lng": 15.9224585
+  },
+  {
+    "team": "Norrtälje IK 2",
+    "homesite": "http://www.svenskalag.se/nik_b-lag",
+    "town": "Norrtälje",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.766667,
+    "lng": 18.7
+  },
+  {
+    "team": "IFK Kiruna",
+    "homesite": "",
+    "town": "Kiruna",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 68.166667,
+    "lng": 19.5
+  },
+  {
+    "team": "IF Mölndal Hockey U20",
+    "homesite": "https://www.laget.se/MHS",
+    "town": "Mölndal",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.6564918,
+    "lng": 12.0153085
+  },
+  {
+    "team": "Kungsbacka HC",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Kungsbacka",
+    "lat": 57.466667,
+    "lng": 12.166667
+  },
+  {
+    "team": "Härryda HC",
+    "homesite": "https://www.laget.se/harrydahc",
+    "town": "Göteborg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "team": "IFK Täby HC",
+    "homesite": "https://www.svenskalag.se/tabyhc-a-lag-div5",
+    "town": "Täby",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.4670482,
+    "lng": 18.0658494
+  },
+  {
+    "team": "Hällefors IK",
+    "homesite": "https://www.halleforsik.se/",
+    "town": "Hällefors",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.833333,
+    "lng": 14.566667
+  },
+  {
+    "team": "FoC Farsta",
+    "homesite": "http://www.farstahockey.se/start/?ID=267079",
+    "town": "Farsta",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.243353,
+    "lng": 18.0939285
+  },
+  {
+    "team": "Vallentuna Hockey U18",
+    "homesite": "https://www.vallentunahockey.com/",
+    "town": "Vallentuna",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.583333,
+    "lng": 18.216667
+  },
+  {
+    "team": "Rimbo IF",
+    "homesite": "https://www.rimboif.com/start/?ID=139546",
+    "town": "Rimbo",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.7453192,
+    "lng": 18.3601765
+  },
+  {
+    "team": "Boo HC",
+    "homesite": "https://www.laget.se/BooHockey",
+    "town": "Nacka",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3120997,
+    "lng": 18.2073591
+  },
+  {
+    "team": "Brinkens IF",
+    "homesite": "https://www.svenskalag.se/brinkensif-alag",
+    "town": "Stockholm",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "team": "GV/75",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "IK Göta",
+    "homesite": "http://www.svenskidrott.se/Organisation.asp?OrgElementId=27691",
+    "town": "Stockholm",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "team": "Saltsjöbadens IF",
+    "homesite": "https://www.saltsjobadensif.se/ishockey/",
+    "town": "Saltsjöbaden",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2792775,
+    "lng": 18.3049291
+  },
+  {
+    "team": "Asplöven HC 2",
+    "homesite": "http://www.asploven.com/index.php?option=com_content&view=article&id=58&Itemid=81",
+    "town": "Haparanda",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.835667,
+    "lng": 24.1357213
+  },
+  {
+    "team": "Tyringe SoSS U20",
+    "homesite": "https://www.tsos.com/",
+    "town": "Tyringe",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.1602044,
+    "lng": 13.6042633
+  },
+  {
+    "team": "Örebro HK U18",
+    "homesite": "http://www.laget.se/OREBROHOCKEYJ18",
+    "town": "Örebro",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2747287,
+    "lng": 15.2151181
+  },
+  {
+    "team": "Tyringe SoSS U18",
+    "homesite": "http://www.laget.se/J18_J20_TYRINGE/",
+    "town": "Tyringe",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.1602044,
+    "lng": 13.6042633
+  },
+  {
+    "team": "Hässleholms HK",
+    "homesite": "http://www.laget.se/hhkdragons/",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Hässleholm",
+    "lat": 56.157986,
+    "lng": 13.7653328
+  },
+  {
+    "team": "HK Surahammar",
+    "homesite": "http://www.laget.se/hksura",
+    "town": "Surahammar",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.75,
+    "lng": 16.15
+  },
+  {
+    "team": "Hisingens IK",
+    "homesite": "https://www.laget.se/hisingenhockey",
+    "town": "Göteborg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "team": "Tyresö/Hanviken",
+    "homesite": "https://hanvikenssk.myclub.se/ishockey",
+    "town": "Tyresö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.216667,
+    "lng": 18.333333
+  },
+  {
+    "team": "Kramfors-Alliansen J18 2",
+    "homesite": "https://www.laget.se/KramforsAlliansen-Ishockey",
+    "town": "Kramfors",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.916667,
+    "lng": 17.666667
+  },
+  {
+    "team": "Sunderby SK",
+    "homesite": "https://www.laget.se/SunderbySKA-lag",
+    "town": "Sunderbyn",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.6541627,
+    "lng": 21.9534144
+  },
+  {
+    "team": "Arken HC",
+    "homesite": "http://www.lagsidan.se/arkenhc/",
+    "town": "Gustavsberg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3256235,
+    "lng": 18.388514
+  },
+  {
+    "team": "Avans SK",
+    "homesite": "http://www6.idrottonline.se/AvansSK/",
+    "town": "Luleå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.5831187,
+    "lng": 22.1459535
+  },
+  {
+    "team": "Bele Barkarby",
+    "homesite": "http://www.belehockey.se/",
+    "town": "Järfälla",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.4204736,
+    "lng": 17.8285472
+  },
+  {
+    "team": "Morö-Bergsbyns SK",
+    "homesite": "",
+    "town": "Bergsbyn",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.7230035,
+    "lng": 21.0803048
+  },
+  {
+    "team": "Björns IF",
+    "homesite": "",
+    "town": "Boden",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.8275004,
+    "lng": 21.6964105
+  },
+  {
+    "team": "Kils AIK 2",
+    "homesite": "http://www.laget.se/KILSHOCKEYBLAG/start.html",
+    "town": "Kil",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.5691957,
+    "lng": 13.1825483
+  },
+  {
+    "team": "Malmbergets AIF 2",
+    "homesite": "",
+    "town": "Malmberget",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.1446227,
+    "lng": 15.5670987
+  },
+  {
+    "team": "Almtuna IS U20",
+    "homesite": "http://www.laget.se/ALMTUNAISJ20/",
+    "town": "Uppsala",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.8586126,
+    "lng": 17.6387436
+  },
+  {
+    "team": "Nyköpings SK U20",
+    "homesite": "http://www.nykopingshockey.se/nhu-j20",
+    "town": "Nyköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.7545409,
+    "lng": 17.0120656
+  },
+  {
+    "team": "LN91 2",
+    "homesite": "http://www.ln91.se/",
+    "town": "Nordmaling",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.666667,
+    "lng": 19.416667
+  },
+  {
+    "team": "Valbo HC U20",
+    "homesite": "https://www.laget.se/ValboHC_J20",
+    "town": "Valbo",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6447772,
+    "lng": 17.0122765
+  },
+  {
+    "team": "Tingsryds AIF U18",
+    "homesite": "http://www.taif.nu",
+    "town": "Tingsryd",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.533333,
+    "lng": 14.966667
+  },
+  {
+    "team": "Tingsryds AIF U20",
+    "homesite": "http://www.taif.nu",
+    "town": "Tingsryd",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.533333,
+    "lng": 14.966667
+  },
+  {
+    "team": "IF Troja-Ljungby U18",
+    "homesite": "http://www.laget.se/iftrojaljungbyj18",
+    "town": "Ljungby",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.85,
+    "lng": 13.933333
+  },
+  {
+    "team": "Borlänge HF U18",
+    "homesite": "http://www.borlange-hockey.se/bhfj18",
+    "town": "Borlänge",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.4856426,
+    "lng": 15.4234561
+  },
+  {
+    "team": "Borlänge HF U20",
+    "homesite": "http://www.borlange-hockey.se/bhfj20",
+    "town": "Borlänge",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.4856426,
+    "lng": 15.4234561
+  },
+  {
+    "team": "Valbo HC U18",
+    "homesite": "https://www.laget.se/Valbo_HC_B_Jun_Elit",
+    "town": "Valbo",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6447772,
+    "lng": 17.0122765
+  },
+  {
+    "team": "Borås HC U20",
+    "homesite": "https://www.borashockey.se/j20-elit/",
+    "town": "Borås",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7210839,
+    "lng": 12.9407407
+  },
+  {
+    "team": "Östersunds IK U20",
+    "homesite": "http://www.ostersundik.com",
+    "town": "Östersund",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.1793655,
+    "lng": 14.6357061
+  },
+  {
+    "team": "Hallsta IK",
+    "homesite": "http://www.laget.se/a-laghockey",
+    "town": "Hallstavik",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.0517603,
+    "lng": 18.5970171
+  },
+  {
+    "team": "Sunne IK U20",
+    "homesite": "http://www.laget.se/SUNNEIK",
+    "town": "Sunne",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.85,
+    "lng": 13.15
+  },
+  {
+    "team": "Sunne IK U18",
+    "homesite": "https://www.laget.se/sunneikJ18",
+    "town": "Sunne",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.85,
+    "lng": 13.15
+  },
+  {
+    "team": "BIK Karlskoga U20",
+    "homesite": "",
+    "town": "Karlskoga",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3291667,
+    "lng": 14.5176911
+  },
+  {
+    "team": "Halmstad Hammers HC U20",
+    "homesite": "https://www.svenskalag.se/hhfj20",
+    "town": "Halmstad",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.6739826,
+    "lng": 12.8574827
+  },
+  {
+    "team": "Guldsmedshytte SK",
+    "homesite": "https://www.laget.se/GuldsmedshytteSK",
+    "town": "Storå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.7138704,
+    "lng": 15.1357371
+  },
+  {
+    "team": "Almtuna IS U18",
+    "homesite": "http://www.laget.se/ALMTUNAISJ18E/",
+    "town": "Uppsala",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.8586126,
+    "lng": 17.6387436
+  },
+  {
+    "team": "Wings HC U18",
+    "homesite": "https://www.laget.se/wings",
+    "town": "Märsta",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.6252383,
+    "lng": 17.8515672
+  },
+  {
+    "team": "Wings HC U20",
+    "homesite": "http://www.laget.se/wingsj20",
+    "town": "Märsta",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.6252383,
+    "lng": 17.8515672
+  },
+  {
+    "team": "Hammarö HC U20",
+    "homesite": "http://www.hammarohockey.com/",
+    "town": "Hammarö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.316667,
+    "lng": 13.55
+  },
+  {
+    "team": "Mariestad BoIS U20",
+    "homesite": "https://www.laget.se/MariestadBoISHC",
+    "town": "Mariestad",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.7093225,
+    "lng": 13.8228754
+  },
+  {
+    "team": "Skövde HC U20",
+    "homesite": "https://www.laget.se/SkovdeIK",
+    "town": "Skövde",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.3896329,
+    "lng": 13.8456344
+  },
+  {
+    "team": "Järfälla HC U18",
+    "homesite": "http://www.jarfallahockey.com/",
+    "town": "Järfälla",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.4204736,
+    "lng": 17.8285472
+  },
+  {
+    "team": "Skåre BK J20",
+    "homesite": "http://www3.idrottonline.se/SkareBK-Ishockey/",
+    "town": "Karlstad",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3809146,
+    "lng": 13.5027631
+  },
+  {
+    "team": "Jonstorps IF U20",
+    "homesite": "https://www.laget.se/JonstorpHockey-Juniorlag20",
+    "town": "Jonstorp",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.2283011,
+    "lng": 12.6748623
+  },
+  {
+    "team": "Växjö Lakers HC U20",
+    "homesite": "http://www.vaxjolakers.se/juniorungdom/j20-superelit",
+    "town": "Växjö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.8787183,
+    "lng": 14.8094385
+  },
+  {
+    "team": "Växjö Lakers HC U18",
+    "homesite": "https://www.svenskalag.se/vaxjolakers",
+    "town": "Växjö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.8787183,
+    "lng": 14.8094385
+  },
+  {
+    "team": "Vännäs HC U20",
+    "homesite": "https://www.laget.se/VannasHC-J20",
+    "town": "Vännäs",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.95,
+    "lng": 19.666667
+  },
+  {
+    "team": "Lions HC",
+    "homesite": "http://www.lionshockey.nu/",
+    "town": "Strömstad",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.9377567,
+    "lng": 11.1736096
+  },
+  {
+    "team": "Clemensnäs HC U20",
+    "homesite": "https://www.laget.se/CHCU20",
+    "town": "Ursviken",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 64.7081242,
+    "lng": 21.1766869
+  },
+  {
+    "team": "Spånga IS U18",
+    "homesite": "https://www.spangahockey.se/start/?ID=232349",
+    "town": "Spånga",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3836259,
+    "lng": 17.8981821
+  },
+  {
+    "team": "Viking HC 2",
+    "homesite": "http://www.laget.se/VIKINGHCA/27233-nyhetsarkiv-item-923196.html",
+    "town": "Hagfors",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.0297519,
+    "lng": 13.6518574
+  },
+  {
+    "team": "Göteborgs IK J18",
+    "homesite": "http://www.lagsidan.se/goteborgsik/team94",
+    "town": "Göteborg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "team": "IF Sundsvall Hockey U20",
+    "homesite": "http://www.laget.se/Sundsvall_J20",
+    "town": "Sundsvall",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.3907552,
+    "lng": 17.3071024
+  },
+  {
+    "team": "Stribergs SK",
+    "homesite": "http://www.svenskidrott.se/Organisation.asp?OrgElementId=30830",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Striberg",
+    "lat": 59.5454324,
+    "lng": 14.941675
+  },
+  {
+    "team": "Kristianstads IK U20",
+    "homesite": "",
+    "town": "Kristianstad",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.0293778,
+    "lng": 14.1566859
+  },
+  {
+    "team": "Falu IF U18",
+    "homesite": "http://www.laget.se/FIF_J18/",
+    "town": "Falun",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6070068,
+    "lng": 15.6323059
+  },
+  {
+    "team": "Falu IF U20",
+    "homesite": "https://www.laget.se/FaluIF",
+    "town": "Falun",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6070068,
+    "lng": 15.6323059
+  },
+  {
+    "team": "Spånga IS U20",
+    "homesite": "https://www.spangahockey.se/start/?ID=232357",
+    "town": "Spånga",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3836259,
+    "lng": 17.8981821
+  },
+  {
+    "team": "Stocksunds IF J20",
+    "homesite": "http://www.stocksundsif.se/Hockey.htm",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Stocksund",
+    "lat": 59.3845769,
+    "lng": 18.0571915
+  },
+  {
+    "team": "Virserums SGF",
+    "homesite": "http://www.svenskalag.se/vsgfhockey",
+    "town": "Virserum",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.3209782,
+    "lng": 15.5774362
+  },
+  {
+    "team": "Hälsinggårdens AIK",
+    "homesite": "http://www.laget.se/HAIKHERR",
+    "town": "Falun",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6070068,
+    "lng": 15.6323059
+  },
+  {
+    "team": "Trångsunds IF U20",
+    "homesite": "https://www.laget.se/Ajunior",
+    "town": "Trångsund",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2334123,
+    "lng": 18.140481
+  },
+  {
+    "team": "Värmland 2",
+    "homesite": "http://www.swehockey.se/varmland",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Ramsele IK",
+    "homesite": "http://www.ramseleik.se",
+    "town": "Ramsele",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.538099,
+    "lng": 16.4686985
+  },
+  {
+    "team": "Järfälla HC U20",
+    "homesite": "http://www.jarfallahockey.com/",
+    "town": "Järfälla",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.4204736,
+    "lng": 17.8285472
+  },
+  {
+    "team": "Grums IK U18",
+    "homesite": "https://www.svenskalag.se/grumsik",
+    "town": "Grums",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.45,
+    "lng": 13.083333
+  },
+  {
+    "team": "Skillingaryds IS",
+    "homesite": "http://www.laget.se/SIS_HOCKEY/",
+    "town": "Skillingaryd",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.4289474,
+    "lng": 14.091985
+  },
+  {
+    "team": "Haninge HF J20",
+    "homesite": "http://www.laget.se/Haningehockeyaj",
+    "town": "Haninge",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.049722,
+    "lng": 18.266667
+  },
+  {
+    "team": "Sollentuna HC U20",
+    "homesite": "https://sollentunahockey.myclub.se/j20",
+    "town": "Sollentuna",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.4293164,
+    "lng": 17.9500556
+  },
+  {
+    "team": "Bodens HF U18",
+    "homesite": "https://www.laget.se/BHFJ18Region",
+    "town": "Boden",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.8275004,
+    "lng": 21.6964105
+  },
+  {
+    "team": "IK Pantern J20",
+    "homesite": "http://www.pantern.se",
+    "town": "Malmö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  {
+    "team": "Nybro Vikings IF U18",
+    "homesite": "https://www.svenskalag.se/nybrovikings",
+    "town": "Nybro",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.7444911,
+    "lng": 15.9075145
+  },
+  {
+    "team": "Nyköpings SK U18",
+    "homesite": "https://www.svenskalag.se/nykopingssk",
+    "town": "Nyköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.7545409,
+    "lng": 17.0120656
+  },
+  {
+    "team": "Nybro Vikings IF U20",
+    "homesite": "https://www.svenskalag.se/nybrovikings",
+    "town": "Nybro",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.7444911,
+    "lng": 15.9075145
+  },
+  {
+    "team": "Eksjö HC",
+    "homesite": "https://www.laget.se/EKSJOHC/",
+    "town": "Eksjö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.6674439,
+    "lng": 14.9735595
+  },
+  {
+    "team": "IF Sundsvall Hockey U18",
+    "homesite": "https://ifsundsvallhockey.web.sportadmin.se/start/?ID=504983",
+    "town": "Sundsvall",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.3907552,
+    "lng": 17.3071024
+  },
+  {
+    "team": "Piteå HC U18",
+    "homesite": "https://www.laget.se/PHCJ18/",
+    "town": "Piteå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.3134652,
+    "lng": 21.4900252
+  },
+  {
+    "team": "Mörrums GoIS U20",
+    "homesite": "https://www.laget.se/morrumhockeyJuniorer",
+    "town": "Mörrum",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.1928572,
+    "lng": 14.7532545
+  },
+  {
+    "team": "Grums IK U20",
+    "homesite": "",
+    "town": "Grums",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.45,
+    "lng": 13.083333
+  },
+  {
+    "team": "Väsby IK U18",
+    "homesite": "https://www.svenskalag.se/vasbyhockey-j18",
+    "town": "Upplands Väsby",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.516667,
+    "lng": 17.916667
+  },
+  {
+    "team": "Väsby IK U20",
+    "homesite": "https://www.svenskalag.se/vasbyhockey",
+    "town": "Upplands Väsby",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.516667,
+    "lng": 17.916667
+  },
+  {
+    "team": "MB Hockey J20",
+    "homesite": "http://www.laget.se/MBAJ/1615-start.html",
+    "town": "Mälarhöjden",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3009642,
+    "lng": 17.9557798
+  },
+  {
+    "team": "Vendelsö IK",
+    "homesite": "http://www.laget.se/VIKALAG_HK/",
+    "town": "Vendelsö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.3020978,
+    "lng": 12.1154235
+  },
+  {
+    "team": "Ekerö IK",
+    "homesite": "http://www.ekeroik.se/group/21222",
+    "town": "Ekerö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2904595,
+    "lng": 17.813072
+  },
+  {
+    "team": "Flens HC",
+    "homesite": "http://www.flenshc.se/",
+    "town": "Flen",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.05,
+    "lng": 16.716667
+  },
+  {
+    "team": "Duvbo IK",
+    "homesite": "http://www.duvbohockey.se/",
+    "town": "Sundbyberg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3628802,
+    "lng": 17.9681359
+  },
+  {
+    "team": "Enebybergs IF",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Danderyd",
+    "lat": 59.4043647,
+    "lng": 18.0358505
+  },
+  {
+    "team": "Gillbo IF",
+    "homesite": "http://www.gillbohockey.com/",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Tierp",
+    "lat": 60.333333,
+    "lng": 17.616667
+  },
+  {
+    "team": "Stavnäs IK",
+    "homesite": "http://www1.idrottonline.se/StavnasIK/",
+    "town": "Arvika",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.766667,
+    "lng": 12.65
+  },
+  {
+    "team": "Svenstaviks HK",
+    "homesite": "http://svenskalag.se/svenstahockey",
+    "town": "Svenstavik",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.766806,
+    "lng": 14.4324223
+  },
+  {
+    "team": "Örnsköldsviks SK J20",
+    "homesite": "http://www.oskhockeyklubb.se/",
+    "town": "Örnsköldsvik",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.2888613,
+    "lng": 18.7160209
+  },
+  {
+    "team": "Nyköping Griffins",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Fotskäls HC",
+    "homesite": "http://www.fotskalhc.com/",
+    "town": "Fotskäl",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.4721903,
+    "lng": 12.4881277
+  },
+  {
+    "team": "Malmö Kryptonics",
+    "homesite": "http://www.laget.se/KRYPTONICS_ISHOCKEY/",
+    "town": "Malmö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  {
+    "team": "Bålsta HC J20",
+    "homesite": "http://www.laget.se/BHCJ20",
+    "town": "Bålsta",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.5682102,
+    "lng": 17.5293647
+  },
+  {
+    "team": "Enköpings SK U20",
+    "homesite": "https://www.laget.se/ESKHockey",
+    "town": "Enköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.6356115,
+    "lng": 17.077856
+  },
+  {
+    "team": "G/H Hockey IF",
+    "homesite": "",
+    "town": "Uppsala",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.8586126,
+    "lng": 17.6387436
+  },
+  {
+    "team": "Surahammars IF J20",
+    "homesite": "https://www.laget.se/SIF-J20",
+    "town": "Surahammar",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.75,
+    "lng": 16.15
+  },
+  {
+    "team": "Borås HC U18",
+    "homesite": "https://www.borashockey.se/j18-elit/",
+    "town": "Borås",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7210839,
+    "lng": 12.9407407
+  },
+  {
+    "team": "Olofströms IK U20",
+    "homesite": "http://www.svenskalag.se/oikjuniorer",
+    "town": "Olofström",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.3014882,
+    "lng": 14.5161735
+  },
+  {
+    "team": "IF Mölndal Hockey U18",
+    "homesite": "https://www.laget.se/mhs_j18",
+    "town": "Mölndal",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.6564918,
+    "lng": 12.0153085
+  },
+  {
+    "team": "Östersunds IK U18",
+    "homesite": "https://oik.ostersundik.com/start/?ID=329689",
+    "town": "Östersund",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.1793655,
+    "lng": 14.6357061
+  },
+  {
+    "team": "Mörrums GoIS U18",
+    "homesite": "https://www.laget.se/MorrumHockey",
+    "town": "Mörrum",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.1928572,
+    "lng": 14.7532545
+  },
+  {
+    "team": "Åkersberga Vikings",
+    "homesite": "",
+    "town": "Åkersberga",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.4823516,
+    "lng": 18.2943981
+  },
+  {
+    "team": "IK Göta Bromma",
+    "homesite": "https://www.gotatraneberg.se/gotatraneberg-a-lag",
+    "town": "Bromma",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.339769,
+    "lng": 17.9395411
+  },
+  {
+    "team": "Vällingby AIK",
+    "homesite": "http://www.vaikhockey.se/",
+    "town": "Vällingby",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3659643,
+    "lng": 17.8716341
+  },
+  {
+    "team": "Botkyrka HC J18",
+    "homesite": "http://www1.idrottonline.se/BotkyrkaHC-Ishockey/Lagen/J18/",
+    "town": "Botkyrka",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2034494,
+    "lng": 17.8545982
+  },
+  {
+    "team": "HC Vita Hästen U20",
+    "homesite": "http://www.svenskalag.se/vitahasten_j20",
+    "town": "Norrköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.5909124,
+    "lng": 16.1903511
+  },
+  {
+    "team": "Sala HK",
+    "homesite": "https://www.laget.se/SHKALAG/",
+    "town": "Sala",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.966667,
+    "lng": 16.6
+  },
+  {
+    "team": "Skultuna IS",
+    "homesite": "http://www.laget.se/skultunahockey",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Skultuna",
+    "lat": 59.7217766,
+    "lng": 16.4281471
+  },
+  {
+    "team": "VIK Västerås HK U",
+    "homesite": "http://www.laget.se/VIKJ20",
+    "town": "Västerås",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.6110992,
+    "lng": 16.5463679
+  },
+  {
+    "team": "Hanhals IF U18",
+    "homesite": "https://www.hanhalsif.se/start/?ID=289690",
+    "town": "Kungsbacka",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.466667,
+    "lng": 12.166667
+  },
+  {
+    "team": "Luleå Rebels",
+    "homesite": "http://www.laget.se/lulearebelshc/",
+    "town": "Sunderbyn",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.6541627,
+    "lng": 21.9534144
+  },
+  {
+    "team": "Heffners/Ortvikens IF",
+    "homesite": "",
+    "town": "Sundsvall",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.3907552,
+    "lng": 17.3071024
+  },
+  {
+    "team": "Sandåkerns SK",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Skellefteå",
+    "lat": 64.7520185,
+    "lng": 20.959339
+  },
+  {
+    "team": "IFK Luleå",
+    "homesite": "",
+    "town": "Luleå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.5831187,
+    "lng": 22.1459535
+  },
+  {
+    "team": "IFK Umeå",
+    "homesite": "",
+    "town": "Umeå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.8256568,
+    "lng": 20.2630745
+  },
+  {
+    "team": "IFK Arvidsjaur",
+    "homesite": "https://www.laget.se/ArvidsjaurHockey",
+    "town": "Arvidsjaur",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.666667,
+    "lng": 19.25
+  },
+  {
+    "team": "Halmstad Hammers HC",
+    "homesite": "https://hammers.se/",
+    "town": "Halmstad",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.6739826,
+    "lng": 12.8574827
+  },
+  {
+    "team": "Östersunds IK",
+    "homesite": "https://www.ostersundik.com/",
+    "town": "Östersund",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.1793655,
+    "lng": 14.6357061
+  },
+  {
+    "team": "Bodens HF",
+    "homesite": "https://www.bodenhockey.se/",
+    "town": "Boden",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.8275004,
+    "lng": 21.6964105
+  },
+  {
+    "team": "Kristianstad/Glimma U16",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Åseda IF",
+    "homesite": "https://www.laget.se/AIF_A",
+    "town": "Åseda",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.1693551,
+    "lng": 15.3523648
+  },
+  {
+    "team": "IK Oskarshamn U20",
+    "homesite": "https://www.svenskalag.se/iko-j20",
+    "town": "Oskarshamn",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.2632811,
+    "lng": 16.4443478
+  },
+  {
+    "team": "Nacka HK U20",
+    "homesite": "https://www.nackahockey.se/start/?ID=134288",
+    "town": "Nacka",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3120997,
+    "lng": 18.2073591
+  },
+  {
+    "team": "Halmstad Hammers HC U18",
+    "homesite": "http://ungdom.halmstadhockey.se/",
+    "town": "Halmstad",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.6739826,
+    "lng": 12.8574827
+  },
+  {
+    "team": "Segersjö HC",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Göteborg",
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "team": "Skå IK J20",
+    "homesite": "http://www.skaik.se/group/32492",
+    "town": "Ekerö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2904595,
+    "lng": 17.813072
+  },
+  {
+    "team": "Skå IK J18",
+    "homesite": "",
+    "town": "Ekerö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2904595,
+    "lng": 17.813072
+  },
+  {
+    "team": "Solna SK J20",
+    "homesite": "http://www.solnahc.nu/Undersidor/Hockeysektionen.htm",
+    "town": "Solna",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.366667,
+    "lng": 18.016667
+  },
+  {
+    "team": "Rosvik IK",
+    "homesite": "https://www.rosvik-ik.se/start/?ID=202719",
+    "town": "Rosvik",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.426626,
+    "lng": 21.692732
+  },
+  {
+    "team": "FoC Farsta J20",
+    "homesite": "https://www.farstahockey.se/start/?ID=488774",
+    "town": "Farsta",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.243353,
+    "lng": 18.0939285
+  },
+  {
+    "team": "HC Lidköping",
+    "homesite": "https://www.laget.se/hclidkoping/",
+    "town": "Lidköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.5037196,
+    "lng": 13.1576427
+  },
+  {
+    "team": "Gislaveds SK U20",
+    "homesite": "https://www.gsk-hockey.se/",
+    "town": "Gislaved",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.25,
+    "lng": 13.45
+  },
+  {
+    "team": "Övertorneå HF",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Övertorneå",
+    "lat": 66.666667,
+    "lng": 23.5
+  },
+  {
+    "team": "Piteå HF 2",
+    "homesite": "",
+    "town": "Piteå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 65.3134652,
+    "lng": 21.4900252
+  },
+  {
+    "team": "Örnsköldsvik HF U18",
+    "homesite": "http://www.ornskoldsvikhockey.com/",
+    "town": "Örnsköldsvik",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.2888613,
+    "lng": 18.7160209
+  },
+  {
+    "team": "HF Linköping",
+    "homesite": "http://www6.idrottonline.se/HFLinkoping-Ishockey/",
+    "town": "Linköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.4098135,
+    "lng": 15.6245252
+  },
+  {
+    "team": "Malmö FF",
+    "homesite": "",
+    "town": "Malmö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  {
+    "team": "Hässelby Kälvesta HC",
+    "homesite": "http://www.hkhc.se/",
+    "town": "Vällingby",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3659643,
+    "lng": 17.8716341
+  },
+  {
+    "team": "FoC Farsta U18",
+    "homesite": "http://idrottonline.se/FoCFarsta-Ishockey/",
+    "town": "Farsta",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.243353,
+    "lng": 18.0939285
+  },
+  {
+    "team": "Dala-Järna IK",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Järna",
+    "lat": 59.0913404,
+    "lng": 17.5651066
+  },
+  {
+    "team": "Falu GIF",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Falun",
+    "lat": 60.6070068,
+    "lng": 15.6323059
+  },
+  {
+    "team": "IK Rommehed",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Falun",
+    "lat": 60.6070068,
+    "lng": 15.6323059
+  },
+  {
+    "team": "Falu BS",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Falun",
+    "lat": 60.6070068,
+    "lng": 15.6323059
+  },
+  {
+    "team": "IFK Mockfjärd",
+    "homesite": "",
+    "town": "Mockfjärd",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.5028991,
+    "lng": 14.9599557
+  },
+  {
+    "team": "Bälinge IF",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Uppsala",
+    "lat": 59.8586126,
+    "lng": 17.6387436
+  },
+  {
+    "team": "IFK Ore/Orsa IK",
+    "homesite": "",
+    "town": "Furudal",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.1707998,
+    "lng": 15.1366774
+  },
+  {
+    "team": "Slottet HC",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Siljansnäs IF",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Leksand",
+    "lat": 60.7329032,
+    "lng": 14.9968205
+  },
+  {
+    "team": "Årsta SK",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Dalaföreningens IK",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Falun",
+    "lat": 60.6070068,
+    "lng": 15.6323059
+  },
+  {
+    "team": "Älvsjö AIK",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Stockholm",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "team": "IK Björnen/Älvdalen",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Älvdalen",
+    "lat": 61.333333,
+    "lng": 13.75
+  },
+  {
+    "team": "IFK Ore",
+    "homesite": "http://www.svenskalag.se/ifkore-alag",
+    "town": "Furudal",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.1707998,
+    "lng": 15.1366774
+  },
+  {
+    "team": "HC Vita Hästen U18",
+    "homesite": "http://www.svenskalag.se/vitahasten_j18",
+    "town": "Norrköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.5909124,
+    "lng": 16.1903511
+  },
+  {
+    "team": "Örebro IK",
+    "homesite": "",
+    "town": "Örebro",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2747287,
+    "lng": 15.2151181
+  },
+  {
+    "team": "IFK Lindesberg",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "LAIK HK",
+    "homesite": "",
+    "town": "Långshyttan",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.4517825,
+    "lng": 16.0324008
+  },
+  {
+    "team": "Sweden U16 (all)",
+    "homesite": "",
+    "town": "",
+    "continent": "INT",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Sweden U17 (all)",
+    "homesite": "",
+    "town": "",
+    "continent": "INT",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Sweden U19 (all)",
+    "homesite": "",
+    "town": "",
+    "continent": "INT",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Sweden U18 (all)",
+    "homesite": "",
+    "town": "",
+    "continent": "INT",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Sweden U20 (all)",
+    "homesite": "",
+    "town": "",
+    "continent": "INT",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Sweden (all)",
+    "homesite": "",
+    "town": "",
+    "continent": "INT",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "NSA-76",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Norsborgs IF",
+    "homesite": "",
+    "town": "Norsborg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2439038,
+    "lng": 17.8127308
+  },
+  {
+    "team": "IF Cobran",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "IF Lejonet",
+    "homesite": "http://www.laget.se/IFLEJONETALAG/",
+    "town": "Landskrona",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 55.8698007,
+    "lng": 12.8296734
+  },
+  {
+    "team": "Östersund U23",
+    "homesite": "http://www.ohcu23.info.se/",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Östersund",
+    "lat": 63.1793655,
+    "lng": 14.6357061
+  },
+  {
+    "team": "HC Undici",
+    "homesite": "http://www.laget.se/public_lag/default.asp?lagid=112@17@120@12@0",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Trångsunds IF U18",
+    "homesite": "https://www.laget.se/trangsundsifj18",
+    "town": "Trångsund",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.2334123,
+    "lng": 18.140481
+  },
+  {
+    "team": "Helsingborgs HC 2",
+    "homesite": "http://www.laget.se/public_lag/default.asp?lagid=117@117@118@115@21",
+    "town": "Helsingborg",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.0442098,
+    "lng": 12.703706
+  },
+  {
+    "team": "Nacka HK U18",
+    "homesite": "https://www.nackahockey.se/start/?ID=148254",
+    "town": "Nacka",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3120997,
+    "lng": 18.2073591
+  },
+  {
+    "team": "Bollnäs IS U18",
+    "homesite": "https://www.bollnashockey.se/start/?ID=288942",
+    "town": "Bollnäs",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.35,
+    "lng": 16.433333
+  },
+  {
+    "team": "Gnagex IF",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "IFK Bofors",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Karlskoga",
+    "lat": 59.3291667,
+    "lng": 14.5176911
+  },
+  {
+    "team": "Hudiksvalls HC U20",
+    "homesite": "http://idrottonline.se/HudiksvallsHC-Ishockey/junung",
+    "town": "Hudiksvall",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.7281607,
+    "lng": 17.105575
+  },
+  {
+    "team": "Hudiksvalls HC U18",
+    "homesite": "https://www.laget.se/HudiksvallsHC",
+    "town": "Hudiksvall",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.7281607,
+    "lng": 17.105575
+  },
+  {
+    "team": "Nyköpings BIS",
+    "homesite": "",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": "Nyköping",
+    "lat": 58.7545409,
+    "lng": 17.0120656
+  },
+  {
+    "team": "Enköpings SK U18",
+    "homesite": "http://www.laget.se/eskjunior",
+    "town": "Enköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.6356115,
+    "lng": 17.077856
+  },
+  {
+    "team": "BIK Karlskoga U18",
+    "homesite": "https://www.laget.se/BIKKarlskogaJunior",
+    "town": "Karlskoga",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3291667,
+    "lng": 14.5176911
+  },
+  {
+    "team": "Limhamn HK U20",
+    "homesite": "https://www.laget.se/LimhamnHockey",
+    "town": "Malmö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  {
+    "team": "Nässjö HC U20",
+    "homesite": "https://www.nassjohc.se/start/?ID=497979",
+    "town": "Nässjö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.6530377,
+    "lng": 14.6981554
+  },
+  {
+    "team": "Nässjö HC U18",
+    "homesite": "https://www.nassjohc.se/start/?ID=497979",
+    "town": "Nässjö",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.6530377,
+    "lng": 14.6981554
+  },
+  {
+    "team": "IFK Arboga U18",
+    "homesite": "https://www.arbogahockey.se/start/?ID=387798",
+    "town": "Arboga",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.394187,
+    "lng": 15.8396643
+  },
+  {
+    "team": "IFK Arboga U20",
+    "homesite": "",
+    "town": "Arboga",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.394187,
+    "lng": 15.8396643
+  },
+  {
+    "team": "Venjan Devils HC",
+    "homesite": "http://www.venjandevils.se",
+    "town": "Mora",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.0086787,
+    "lng": 14.5442519
+  },
+  {
+    "team": "IFK Strömsund J18",
+    "homesite": "http://www.lagsidan.se/hotingstomsundj18/default.html",
+    "town": "",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "team": "Skövde HC U18",
+    "homesite": "https://skovdehc.se/",
+    "town": "Skövde",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.3896329,
+    "lng": 13.8456344
+  },
+  {
+    "team": "Olsäters SK",
+    "homesite": "http://www.laget.se/Olsaterhockey",
+    "town": "Deje",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.6059394,
+    "lng": 13.4636486
+  },
+  {
+    "team": "MB Hockey J18",
+    "homesite": "https://www.mbhockey.se/",
+    "town": "Mälarhöjden",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.3009642,
+    "lng": 17.9557798
+  },
+  {
+    "team": "Sollentuna HC U18",
+    "homesite": "https://sollentunahockey.myclub.se/j18",
+    "town": "Sollentuna",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.4293164,
+    "lng": 17.9500556
+  },
+  {
+    "team": "Sannarps HC",
+    "homesite": "http://www.sannarpshc.se",
+    "town": "Halmstad",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.6739826,
+    "lng": 12.8574827
+  },
+  {
+    "team": "Tegs SK U18",
+    "homesite": "https://tegsskhockey.sportadmin.se/start/?ID=429560",
+    "town": "Umeå",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 63.8256568,
+    "lng": 20.2630745
+  },
+  {
+    "team": "Roslagen HC",
+    "homesite": "http://www.lagsidan.se/rhc",
+    "town": "Norrtälje",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.766667,
+    "lng": 18.7
+  },
+  {
+    "team": "Alfta GIF J18",
+    "homesite": "http://www.alftahockey.com/",
+    "town": "Alfta",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 61.3443897,
+    "lng": 16.0582419
+  },
+  {
+    "team": "Rydaholms SK",
+    "homesite": "https://www.svenskalag.se/rydaholmssk",
+    "town": "Rydaholm",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 56.9871882,
+    "lng": 14.3098574
+  },
+  {
+    "team": "HC Dalen U18",
+    "homesite": "http://www.laget.se/HCDALENJ18/",
+    "town": "Norrahammar",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 57.7025277,
+    "lng": 14.1189881
+  },
+  {
+    "team": "Kovlands IF 2",
+    "homesite": "http://www.svenskalag.se/kovlandhockey",
+    "town": "Kovland",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 62.4695206,
+    "lng": 17.155385
+  },
+  {
+    "team": "HKL Make Believes",
+    "homesite": "http://www.laget.se/HKL_MAKE_BELIEVES/10666-start.html",
+    "town": "Linköping",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 58.4098135,
+    "lng": 15.6245252
+  },
+  {
+    "team": "Arvika HC J20",
+    "homesite": "http://www.arvikahockey.nu/",
+    "town": "Arvika",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.766667,
+    "lng": 12.65
+  },
+  {
+    "team": "Hille/Åbyggeby IK U20",
+    "homesite": "https://www.laget.se/hillehockey",
+    "town": "Gävle",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 60.6750132,
+    "lng": 17.1467019
+  },
+  {
+    "team": "Fagersta AIK J20",
+    "homesite": "http://www.faik-hockey.se/",
+    "town": "Fagersta",
+    "continent": "EU",
+    "suggested_town": null,
+    "lat": 59.966667,
+    "lng": 15.833333
+  }
+]
