@@ -4,6 +4,11 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "World Hockey Teams Map",
   description: "Interactive map of world hockey teams and their hometowns",
+  openGraph: {
+    title: "World Hockey Teams Map",
+    description: "Interactive map of world hockey teams and their hometowns",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
