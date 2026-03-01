@@ -16,8 +16,9 @@ export interface Team {
   team: string;
   homesite: string;
   town: string;
-  suggested_town: string | null;
+  suggested_town?: string | null;
   continent: string;
+  nation: string;
   lat: number | null;
   lng: number | null;
 }
@@ -27,7 +28,7 @@ export default function Home() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("/teams-geocoded.json")
+    fetch("/teams-nations-geocoded.json")
       .then((r) => r.json())
       .then((data: Team[]) => {
         setTeams(data);
@@ -39,6 +40,11 @@ export default function Home() {
   const total = teams.length;
   const withCoords = mappable.length;
 
+  // Count unique nations that have at least one mapped team
+  const nationsCount = new Set(
+    mappable.map((t) => t.nation).filter(Boolean)
+  ).size;
+
   return (
     <main className="flex flex-col h-screen bg-slate-900">
       <header className="flex items-center justify-between px-6 py-3 bg-slate-800 border-b border-slate-700 shrink-0">
@@ -46,12 +52,12 @@ export default function Home() {
           <span className="text-2xl">🏒</span>
           <div>
             <h1 className="text-lg font-bold text-white leading-tight">
-              Swedish Hockey Teams
+              World Hockey Teams Map
             </h1>
             <p className="text-xs text-slate-400">
               {loading
                 ? "Loading..."
-                : `${withCoords} teams mapped · ${total - withCoords} without location`}
+                : `${withCoords.toLocaleString()} teams mapped across ${nationsCount} nations · ${(total - withCoords).toLocaleString()} without location`}
             </p>
           </div>
         </div>
